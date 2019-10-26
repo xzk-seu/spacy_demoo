@@ -1,0 +1,699 @@
+账号识别结果
+
+{"raw_input": "上官婉儿", "accounts": []}
+{"raw_input": "姓名朱丹", "accounts": []}
+{"raw_input": "叫韩少的人是谁？", "accounts": []}
+{"raw_input": "谁是唐小波？", "accounts": []}
+{"raw_input": "何高钱是什么人？", "accounts": []}
+{"raw_input": "名字叫江雕的是哪个人？", "accounts": []}
+{"raw_input": "姓名是江雕", "accounts": []}
+{"raw_input": "名字叫高炼二的是哪一位？", "accounts": []}
+{"raw_input": "名字叫高炼二", "accounts": []}
+{"raw_input": "哪位是被大家喊做慕容紫琮的？", "accounts": []}
+{"raw_input": "那个人名字叫张来？", "accounts": []}
+{"raw_input": "江苏南京人", "accounts": []}
+{"raw_input": "籍贯是上海的人有哪些？", "accounts": []}
+{"raw_input": "出生在山东青岛的李依依", "accounts": []}
+{"raw_input": "哪个人是出生在四川省成都市的张法拉？", "accounts": []}
+{"raw_input": "有哪位叫做洪金宝的籍贯是黑龙江哈尔冰市的？", "accounts": []}
+{"raw_input": "来自湖南省长沙市的张全蛋", "accounts": []}
+{"raw_input": "QQ号891255203", "accounts": [{"value": "891255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "15962310006.0", "accounts": [{"value": "15962310006.0", "type": "UNLABEL", "begin": 0, "end": 13, "code": 1}]}
+{"raw_input": "京东账号是dgddddghj是那位？", "accounts": [{"value": "dgddddghj", "type": "JD_VALUE", "begin": 5, "end": 14, "code": 260}]}
+{"raw_input": "18625173586这个手机号码是谁的？", "accounts": [{"value": "18625173586", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "18625173586是谁？", "accounts": [{"value": "18625173586", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "谁是wxid_8n9p7wz0uccp12？", "accounts": [{"value": "wxid_8n9p7wz0uccp12", "type": "WECHAT_VALUE", "begin": 2, "end": 21, "code": 230}]}
+{"raw_input": "99554422775@126.com是属于哪个人的？", "accounts": [{"value": "99554422775@126.com", "type": "EMAIL_VALUE", "begin": 0, "end": 19, "code": 240}]}
+{"raw_input": "抖音号为125035044的人是谁？", "accounts": [{"value": "125035044", "type": "DOUYIN_VALUE", "begin": 4, "end": 13, "code": 250}]}
+{"raw_input": "谁的支付宝账号是18851951427？", "accounts": [{"value": "18851951427", "type": "ALIPAY_VALU", "begin": 8, "end": 19, "code": 270}]}
+{"raw_input": "电话为18020017775且抖音账户为125035044的是哪位？", "accounts": [{"value": "18020017775", "type": "PHONE_NUM", "begin": 3, "end": 14, "code": 470}, {"value": "125035044", "type": "DOUYIN_VALUE", "begin": 20, "end": 29, "code": 250}]}
+{"raw_input": "淘宝账户为xiaowoniu且微博号是3456432的人是哪个？", "accounts": [{"value": "xiaowoniu", "type": "TAOBAO_VALUE", "begin": 5, "end": 14, "code": 280}, {"value": "3456432", "type": "MICROBLOG_VALUE", "begin": 19, "end": 26, "code": 290}]}
+{"raw_input": "qq为196787955微信号是xiaowoniu123邮箱地址是7895444633@qq.com的人是谁", "accounts": [{"value": "196787955", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}, {"value": "xiaowoniu123", "type": "WECHAT_VALUE", "begin": 16, "end": 28, "code": 230}, {"value": "7895444633@qq.com", "type": "WECHAT_VALUE", "begin": 33, "end": 50, "code": 230}]}
+{"raw_input": "哪个人的京东号为shaduuhjff支付宝为13775526664并且固定电话是88886664？", "accounts": [{"value": "shaduuhjff", "type": "JD_VALUE", "begin": 8, "end": 18, "code": 260}, {"value": "13775526664", "type": "ALIPAY_VALU", "begin": 22, "end": 33, "code": 270}, {"value": "88886664", "type": "PHONE_NUM", "begin": 40, "end": 48, "code": 470}]}
+{"raw_input": "苏A12345的车主", "accounts": [{"value": "苏A12345", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "谁是沪B56789的车主？", "accounts": [{"value": "沪B56789", "type": "VEHCARD_VALUE", "begin": 2, "end": 9, "code": 420}]}
+{"raw_input": "车牌号是赣F98765的车是谁的？", "accounts": [{"value": "赣F98765", "type": "VEHCARD_VALUE", "begin": 4, "end": 11, "code": 420}]}
+{"raw_input": "0316-6188788是哪个人的电话号码？", "accounts": [{"value": "0316-6188788", "type": "PHONE_NUM", "begin": 0, "end": 12, "code": 470}]}
+{"raw_input": "320581199507074529", "accounts": [{"value": "320581199507074529", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "32062319940429861X是哪个人？", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "身份证号是32062319940429861X的人", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 5, "end": 23, "code": 461}]}
+{"raw_input": "谁的身份证号是32062319940429861X？", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 7, "end": 25, "code": 461}]}
+{"raw_input": "身份证为32062319940429861X并且车牌为鲁F56789的人是谁？", "accounts": [{"value": "鲁F56789", "type": "VEHCARD_VALUE", "begin": 27, "end": 34, "code": 420}, {"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 4, "end": 22, "code": 461}]}
+{"raw_input": "身份证为32062319940429861X并且车牌为鲁F56789的人", "accounts": [{"value": "鲁F56789", "type": "VEHCARD_VALUE", "begin": 27, "end": 34, "code": 420}, {"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 4, "end": 22, "code": 461}]}
+{"raw_input": "上海市世贸佘山别墅A区2号楼的住户", "accounts": []}
+{"raw_input": "北京市朝阳区红河小区3栋1单元201室的租户", "accounts": []}
+{"raw_input": "在南京市新城科技园上班的人有哪些？", "accounts": []}
+{"raw_input": "哪儿些人是在佛山市南海区金山路142号工作的？", "accounts": []}
+{"raw_input": "经常逗留在广东省云浮市云城区腰古镇杏花村的外地人", "accounts": []}
+{"raw_input": "到江西省赣州市龙南县出过差的江苏南京人", "accounts": []}
+{"raw_input": "出生在小河居委朝阳村并且在南京市雨花台区铁心大厦工作的人有哪些？", "accounts": []}
+{"raw_input": "在苏州市吴中区工作且经常在公明街道办甲子塘大道逗留的人是谁？", "accounts": []}
+{"raw_input": "在苏州市吴中区工作且经常在公明街道办甲子塘大道逗留的人", "accounts": []}
+{"raw_input": "哪些是住在建邺区莲花新城北苑在新城科技园上班的上海人？", "accounts": []}
+{"raw_input": "住在建邺区莲花新城北苑在新城科技园上班的上海人", "accounts": []}
+{"raw_input": "在东莞市霄边将军街孚存六巷12号二楼住日租房的是谁？", "accounts": []}
+{"raw_input": "湖南海外旅游有限公司的员工有哪些人？", "accounts": []}
+{"raw_input": "湖南海外旅游有限公司的员工", "accounts": []}
+{"raw_input": "哪些人在怀化市三中体育有限公司营业部做营业员？", "accounts": []}
+{"raw_input": "怀化市三中体育有限公司营业部的营业员", "accounts": []}
+{"raw_input": "在沭阳远发建材有限公司上班的人", "accounts": []}
+{"raw_input": "有谁是在沭阳锡恩工艺品有限公司工作的？", "accounts": []}
+{"raw_input": "盐城市豪意商贸有限公司的总经理是哪位？", "accounts": []}
+{"raw_input": "谁是上海鲁昱机电设备有限公司的法人？", "accounts": []}
+{"raw_input": "上海鲁昱机电设备有限公司的法人", "accounts": []}
+{"raw_input": "手机号是18625173485的吴佑波是谁", "accounts": [{"value": "18625173485", "type": "MOB_NUM", "begin": 4, "end": 15, "code": 220}]}
+{"raw_input": "手机号是18625173485的吴佑波", "accounts": [{"value": "18625173485", "type": "MOB_NUM", "begin": 4, "end": 15, "code": 220}]}
+{"raw_input": "QQ是234324354的黎传彬是什么人", "accounts": [{"value": "234324354", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "QQ是234324354的名字叫黎传彬的人", "accounts": [{"value": "234324354", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "微信账号chen2334的罗欢", "accounts": [{"value": "chen2334", "type": "WECHAT_VALUE", "begin": 4, "end": 12, "code": 230}]}
+{"raw_input": "谁是微信号chen2334的罗欢", "accounts": [{"value": "chen2334", "type": "WECHAT_VALUE", "begin": 5, "end": 13, "code": 230}]}
+{"raw_input": "邮箱是1203543908@qq.com的名叫申彬的是哪个人", "accounts": [{"value": "1203543908@qq.com", "type": "EMAIL_VALUE", "begin": 3, "end": 20, "code": 240}]}
+{"raw_input": "抖音号是233454657667的杜坚", "accounts": [{"value": "233454657667", "type": "DOUYIN_VALUE", "begin": 4, "end": 16, "code": 250}]}
+{"raw_input": "抖音号是233454657667的杜坚是哪位", "accounts": [{"value": "233454657667", "type": "DOUYIN_VALUE", "begin": 4, "end": 16, "code": 250}]}
+{"raw_input": "京东账号是23434534的邹育江是那个人", "accounts": [{"value": "23434534", "type": "JD_VALUE", "begin": 5, "end": 13, "code": 260}]}
+{"raw_input": "京东账号是23434534的邹育江", "accounts": [{"value": "23434534", "type": "JD_VALUE", "begin": 5, "end": 13, "code": 260}]}
+{"raw_input": "支付宝是18743234567的雷文富是哪儿个人", "accounts": [{"value": "18743234567", "type": "ALIPAY_VALU", "begin": 4, "end": 15, "code": 270}]}
+{"raw_input": "支付宝是18743234567的雷文富", "accounts": [{"value": "18743234567", "type": "ALIPAY_VALU", "begin": 4, "end": 15, "code": 270}]}
+{"raw_input": "淘宝是cc_0116的陈岑是那儿个人", "accounts": [{"value": "cc_0116", "type": "TAOBAO_VALUE", "begin": 3, "end": 10, "code": 280}]}
+{"raw_input": "淘宝是cc_0116的陈岑", "accounts": [{"value": "cc_0116", "type": "TAOBAO_VALUE", "begin": 3, "end": 10, "code": 280}]}
+{"raw_input": "微博是2324542234的蒋先华是那一位", "accounts": [{"value": "2324542234", "type": "MICROBLOG_VALUE", "begin": 3, "end": 13, "code": 290}]}
+{"raw_input": "微博是2324542234的蒋先华", "accounts": [{"value": "2324542234", "type": "MICROBLOG_VALUE", "begin": 3, "end": 13, "code": 290}]}
+{"raw_input": "电话号码是0316-6188788的轩辕渡是哪儿一位", "accounts": [{"value": "0316-6188788", "type": "PHONE_NUM", "begin": 5, "end": 17, "code": 470}]}
+{"raw_input": "电话号码是0316-6188788的轩辕渡", "accounts": [{"value": "0316-6188788", "type": "PHONE_NUM", "begin": 5, "end": 17, "code": 470}]}
+{"raw_input": "那儿一位是18234565325的机主谢庆生", "accounts": [{"value": "18234565325", "type": "MOB_NUM", "begin": 5, "end": 16, "code": 220}]}
+{"raw_input": "18234565325的机主谢庆生", "accounts": [{"value": "18234565325", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "那位是QQ号234354562的持有者李勋", "accounts": [{"value": "234354562", "type": "QQ_NUM", "begin": 6, "end": 15, "code": 210}]}
+{"raw_input": "QQ号234354562的持有者李勋", "accounts": [{"value": "234354562", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "籍贯山东的李帅", "accounts": []}
+{"raw_input": "籍贯山东的李帅是谁？", "accounts": []}
+{"raw_input": "苏A24A16的车主袁冬是谁", "accounts": [{"value": "苏A24A16", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "苏A24A16的车主袁冬", "accounts": [{"value": "苏A24A16", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "谁是苏B234C1的车主张国龙", "accounts": [{"value": "苏B234C1", "type": "VEHCARD_VALUE", "begin": 2, "end": 9, "code": 420}]}
+{"raw_input": "哪儿位是晏志涛车牌号鄂U234567", "accounts": [{"value": "U234567", "type": "UNLABEL", "begin": 11, "end": 18, "code": 1}]}
+{"raw_input": "哪位是32062319940429861X姓名吴露", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 3, "end": 21, "code": 461}]}
+{"raw_input": "刘坚身份证32062319940429861X", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 5, "end": 23, "code": 461}]}
+{"raw_input": "住在黑龙江省齐齐哈尔市昂昂溪区的谢玲是谁", "accounts": []}
+{"raw_input": "住在黑龙江省齐齐哈尔市昂昂溪区的谢玲", "accounts": []}
+{"raw_input": "租房住在山东省威海市文登区天福路街道职工街45号的汪熊是什么人？", "accounts": []}
+{"raw_input": "居住在周口市沈丘县河南省沈丘县周莹乡黄孟营村苏楼的刘慧是谁？", "accounts": []}
+{"raw_input": "那个人是在陕西省华阴市定居的曹健", "accounts": []}
+{"raw_input": "哪个人是在关田北路租房的庄建伟", "accounts": []}
+{"raw_input": "谁是云南省昆明市官渡区1幢04单元6H号的梁唯", "accounts": []}
+{"raw_input": "云南省昆明市官渡区1幢04单元6H号的梁唯", "accounts": []}
+{"raw_input": "曾经在双城国际2号楼租房的罗常是什么人？", "accounts": []}
+{"raw_input": "在北京大学深圳医院外科六楼住院3年的文先明是啥人？", "accounts": []}
+{"raw_input": "哪个是在中大街626号租房居住的欧阳舟颖", "accounts": []}
+{"raw_input": "在湖南省长沙市市辖区居住的周林是什么人？", "accounts": []}
+{"raw_input": "在天门大街399号租房住的饶远东是谁？", "accounts": []}
+{"raw_input": "在文靖路康馨花园住日租房的沈绪林是哪位？", "accounts": []}
+{"raw_input": "在文靖路康馨花园住日租房的沈绪林", "accounts": []}
+{"raw_input": "北京新店宝网络科技有限公司做推销员的范妍是什么人？", "accounts": []}
+{"raw_input": "北京新店宝网络科技有限公司做推销员的范妍", "accounts": []}
+{"raw_input": "上海弘夯实业有限公司当设计师的雷景翔是谁？", "accounts": []}
+{"raw_input": "谁是北京晋腾寰宇科技有限公司强电工程师欧阳司公？", "accounts": []}
+{"raw_input": "天源家纺的店长罗江勇是那个人？", "accounts": []}
+{"raw_input": "天源家纺的店长罗江勇", "accounts": []}
+{"raw_input": "中国石化销售有限公司重庆石油分公司潼南龙形加油站的欧阳雅贝是哪个？", "accounts": []}
+{"raw_input": "苏州十娘餐饮管理有限公司的冯寒是什么人？", "accounts": []}
+{"raw_input": "家乐福的杨埝是谁？", "accounts": []}
+{"raw_input": "谁是08年在青岛七彩绣商贸有限公司做工程预算员的高钰雯？", "accounts": []}
+{"raw_input": "08年在青岛七彩绣商贸有限公司做工程预算员的高钰雯", "accounts": []}
+{"raw_input": "曾经在赤峰龙泽园林绿化有限公司做网络管理员的涂淑仙是什么人？", "accounts": []}
+{"raw_input": "曾经在赤峰龙泽园林绿化有限公司做网络管理员的涂淑仙", "accounts": []}
+{"raw_input": "谁是青海创铭铁道劳务有限公司的古源？", "accounts": []}
+{"raw_input": "在英派斯当健身教练的罗金凤是谁？", "accounts": []}
+{"raw_input": "在广州奥科电子有限公司做了3年机电工程师的文福", "accounts": []}
+{"raw_input": "手机号18625173485和身份证370829198706019990的人是谁", "accounts": [{"value": "18625173485", "type": "MOB_NUM", "begin": 3, "end": 14, "code": 220}, {"value": "370829198706019990", "type": "IDCARD_VALUE", "begin": 18, "end": 36, "code": 461}]}
+{"raw_input": "手机号18625173485和身份证370829198706019990", "accounts": [{"value": "18625173485", "type": "MOB_NUM", "begin": 3, "end": 14, "code": 220}, {"value": "370829198706019990", "type": "IDCARD_VALUE", "begin": 18, "end": 36, "code": 461}]}
+{"raw_input": "证件652300200702216443和QQ是234324354的是什么人", "accounts": [{"value": "652300200702216443", "type": "IDCARD_VALUE", "begin": 2, "end": 20, "code": 461}, {"value": "234324354", "type": "QQ_NUM", "begin": 24, "end": 33, "code": 210}]}
+{"raw_input": "wxid_7osqxk2b1pho22和苏A2349D3的主人是哪个", "accounts": [{"value": "wxid_7osqxk2b1pho22", "type": "WECHAT_VALUE", "begin": 0, "end": 19, "code": 230}, {"value": "A2349D3", "type": "UNLABEL", "begin": 21, "end": 28, "code": 1}]}
+{"raw_input": "谁的邮箱是1203543908@qq.com淘宝是cc_0116", "accounts": [{"value": "1203543908@qq.com", "type": "EMAIL_VALUE", "begin": 5, "end": 22, "code": 240}, {"value": "cc_0116", "type": "TAOBAO_VALUE", "begin": 25, "end": 32, "code": 280}]}
+{"raw_input": "支付宝18743234567抖音号233454657667的人是哪一位", "accounts": [{"value": "18743234567", "type": "ALIPAY_VALU", "begin": 3, "end": 14, "code": 270}, {"value": "233454657667", "type": "DOUYIN_VALUE", "begin": 17, "end": 29, "code": 250}]}
+{"raw_input": "谁京东账号是23434534微博账号是24534564", "accounts": [{"value": "23434534", "type": "JD_VALUE", "begin": 6, "end": 14, "code": 260}, {"value": "24534564", "type": "MICROBLOG_VALUE", "begin": 19, "end": 27, "code": 290}]}
+{"raw_input": "哪个是定居在内蒙古自治区阿拉善盟阿拉善左旗的120107196407067528", "accounts": [{"value": "120107196407067528", "type": "IDCARD_VALUE", "begin": 22, "end": 40, "code": 461}]}
+{"raw_input": "定居在内蒙古自治区阿拉善盟阿拉善左旗的120107196407067528", "accounts": [{"value": "120107196407067528", "type": "IDCARD_VALUE", "begin": 19, "end": 37, "code": 461}]}
+{"raw_input": "谁是居住在德州学院商城6号口的15885084827", "accounts": [{"value": "15885084827", "type": "MOB_NUM", "begin": 15, "end": 26, "code": 220}]}
+{"raw_input": "住在陕西省汉中市市辖区的QQ号码1170591840的人是谁？", "accounts": [{"value": "1170591840", "type": "QQ_NUM", "begin": 16, "end": 26, "code": 210}]}
+{"raw_input": "寄居在内蒙古赤峰红山区站前街军城菊香花园军城副食商店的wxid_btjlpd7fdxd722是什么人", "accounts": [{"value": "wxid_btjlpd7fdxd722", "type": "WECHAT_VALUE", "begin": 27, "end": 46, "code": 230}]}
+{"raw_input": "在四川省富顺县板桥镇龙乘村二组43号合租的13521805673@189.cn是那个人", "accounts": [{"value": "13521805673@189.cn", "type": "EMAIL_VALUE", "begin": 21, "end": 39, "code": 240}]}
+{"raw_input": "在四川省富顺县板桥镇龙乘村二组43号合租的13521805673@189.cn", "accounts": [{"value": "13521805673@189.cn", "type": "EMAIL_VALUE", "begin": 21, "end": 39, "code": 240}]}
+{"raw_input": "德清乾元经济开发区租房的110108195201081439是哪个", "accounts": [{"value": "110108195201081439", "type": "IDCARD_VALUE", "begin": 12, "end": 30, "code": 461}]}
+{"raw_input": "德清乾元经济开发区租房的110108195201081439", "accounts": [{"value": "110108195201081439", "type": "IDCARD_VALUE", "begin": 12, "end": 30, "code": 461}]}
+{"raw_input": "租房住在广东省潮州市市辖区的微博账号23245454534的人是？", "accounts": [{"value": "23245454534", "type": "MICROBLOG_VALUE", "begin": 18, "end": 29, "code": 290}]}
+{"raw_input": "租房住在广东省潮州市市辖区的微博账号23245454534的人", "accounts": [{"value": "23245454534", "type": "MICROBLOG_VALUE", "begin": 18, "end": 29, "code": 290}]}
+{"raw_input": "沈阳市铁西区嘉禾面食店当采购员的122002950@qq.com是谁？", "accounts": [{"value": "122002950@qq.com", "type": "EMAIL_VALUE", "begin": 16, "end": 32, "code": 240}]}
+{"raw_input": "沈阳市铁西区嘉禾面食店当采购员的122002950@qq.com", "accounts": [{"value": "122002950@qq.com", "type": "EMAIL_VALUE", "begin": 16, "end": 32, "code": 240}]}
+{"raw_input": "谁是瑞安市亿登鞋业有限公司的152128199609040027", "accounts": [{"value": "152128199609040027", "type": "IDCARD_VALUE", "begin": 14, "end": 32, "code": 461}]}
+{"raw_input": "在南京拓科达生物技术有限公司当管理员的15090655610是什么人", "accounts": [{"value": "15090655610", "type": "MOB_NUM", "begin": 19, "end": 30, "code": 220}]}
+{"raw_input": "威远县鑫茂瓷业有限公司哪个员工的qQ号是1098902717", "accounts": [{"value": "1098902717", "type": "QQ_NUM", "begin": 20, "end": 30, "code": 210}]}
+{"raw_input": "中山市茂庆灯饰有限公司微信是wxid_2e9igsrwepwv22的人是谁", "accounts": [{"value": "wxid_2e9igsrwepwv22", "type": "WECHAT_VALUE", "begin": 14, "end": 33, "code": 230}]}
+{"raw_input": "纽约人寿的120115201001200273是谁", "accounts": [{"value": "120115201001200273", "type": "IDCARD_VALUE", "begin": 5, "end": 23, "code": 461}]}
+{"raw_input": "谁是深圳市威迪贸易有限公司上班的qq号1527866791的人", "accounts": [{"value": "1527866791", "type": "QQ_NUM", "begin": 19, "end": 29, "code": 210}]}
+{"raw_input": "谁是内蒙古云鹿物流有限责任公司的130434195910093910", "accounts": [{"value": "130434195910093910", "type": "IDCARD_VALUE", "begin": 16, "end": 34, "code": 461}]}
+{"raw_input": "谁是上海高成能源工程公司的13680775903@qq.com", "accounts": [{"value": "13680775903@qq.com", "type": "EMAIL_VALUE", "begin": 13, "end": 31, "code": 240}]}
+{"raw_input": "谁是在日本电气公司做文档工程师的18182051390", "accounts": [{"value": "18182051390", "type": "MOB_NUM", "begin": 16, "end": 27, "code": 220}]}
+{"raw_input": "在浙江吉利罗佑发动机有限公司工作的老家江苏南京的人有哪些", "accounts": []}
+{"raw_input": "住在锦州花园小区的在湖北蓝天星支付有限公司干会计的人是那个人", "accounts": []}
+{"raw_input": "在烽火科技大厦A栋10楼的江苏南工科技集团有限公司工作的人", "accounts": []}
+{"raw_input": "在深圳市拓展和缘贸易有限公司工作的住在旺角城金2幢1单元的人", "accounts": []}
+{"raw_input": "经常在新城科技园附近逗留的在卡仕达做手机应用开发工程师的人", "accounts": []}
+{"raw_input": "尚亮的表弟", "accounts": []}
+{"raw_input": "韩晓韶的老婆是谁？", "accounts": []}
+{"raw_input": "谁是唐大波的同班同学？", "accounts": []}
+{"raw_input": "何大千的同事是什么人？", "accounts": []}
+{"raw_input": "哪个人和姜小红是同乡？", "accounts": []}
+{"raw_input": "和高炼的同住的人", "accounts": []}
+{"raw_input": "与简兴的同行的人是谁？", "accounts": []}
+{"raw_input": "楚波的同案人是谁？", "accounts": []}
+{"raw_input": "方石的同伙有哪些？", "accounts": []}
+{"raw_input": "黄进的同监是谁？", "accounts": []}
+{"raw_input": "经常和端木渝在同一个网吧上网的人是谁？", "accounts": []}
+{"raw_input": "黄文轩的师弟有哪些？", "accounts": []}
+{"raw_input": "哪位的同学是邓太阳？", "accounts": []}
+{"raw_input": "同事叫谭伟伟的人有哪些？", "accounts": []}
+{"raw_input": "哪个人的同乡叫司徒东青？", "accounts": []}
+{"raw_input": "和叫宋淘同住的人有哪些人？", "accounts": []}
+{"raw_input": "张来的舍友有谁？", "accounts": []}
+{"raw_input": "室友叫雷冰的人有哪些？", "accounts": []}
+{"raw_input": "和何晔同行的人是谁？", "accounts": []}
+{"raw_input": "和钟雷同监的有哪些人？", "accounts": []}
+{"raw_input": "和周伦同网吧的有哪些人？", "accounts": []}
+{"raw_input": "QQ号码451255203的四姨", "accounts": [{"value": "451255203", "type": "QQ_NUM", "begin": 4, "end": 13, "code": 210}]}
+{"raw_input": "15053738455有哪些儿女？", "accounts": [{"value": "15053738455", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "qQ是868233062的母亲是那位？", "accounts": [{"value": "868233062", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "18625173586这个手机号码的同学是谁？", "accounts": [{"value": "18625173586", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "18625173586的同学是谁？", "accounts": [{"value": "18625173586", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "谁是微信号是wxid_8n9p7wz0uccp12的同事？", "accounts": [{"value": "wxid_8n9p7wz0uccp12", "type": "WECHAT_VALUE", "begin": 6, "end": 25, "code": 230}]}
+{"raw_input": "wxid_8n9p7wz0uccp12的同事是谁？", "accounts": [{"value": "wxid_8n9p7wz0uccp12", "type": "WECHAT_VALUE", "begin": 0, "end": 19, "code": 230}]}
+{"raw_input": "99554422775@126.com的同乡是哪个人？", "accounts": [{"value": "99554422775@126.com", "type": "EMAIL_VALUE", "begin": 0, "end": 19, "code": 240}]}
+{"raw_input": "哪些人是抖音号为125035044的同住室友？", "accounts": [{"value": "125035044", "type": "DOUYIN_VALUE", "begin": 8, "end": 17, "code": 250}]}
+{"raw_input": "京东账号为dgddddghj的同行人是哪儿一位？", "accounts": [{"value": "dgddddghj", "type": "JD_VALUE", "begin": 5, "end": 14, "code": 260}]}
+{"raw_input": "谁是支付宝账号18851951427的同案人？", "accounts": [{"value": "18851951427", "type": "ALIPAY_VALU", "begin": 7, "end": 18, "code": 270}]}
+{"raw_input": "哪些是淘宝号qianjin891255203的同仁", "accounts": [{"value": "qianjin891255203", "type": "TAOBAO_VALUE", "begin": 6, "end": 22, "code": 280}]}
+{"raw_input": "跟微博为891255203的同监的人有哪些？", "accounts": [{"value": "891255203", "type": "MICROBLOG_VALUE", "begin": 4, "end": 13, "code": 290}]}
+{"raw_input": "苏A12345的车主的表叔", "accounts": [{"value": "苏A12345", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "谁是沪B56789的车主的老伴？", "accounts": [{"value": "沪B56789", "type": "VEHCARD_VALUE", "begin": 2, "end": 9, "code": 420}]}
+{"raw_input": "车牌号是赣F98765的人", "accounts": [{"value": "赣F98765", "type": "VEHCARD_VALUE", "begin": 4, "end": 11, "code": 420}]}
+{"raw_input": "320581199507074529的丈夫", "accounts": [{"value": "320581199507074529", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "32062319940429861X的同乡是哪个人？", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "谁是身份证号32062319940429861X的同学？", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 6, "end": 24, "code": 461}]}
+{"raw_input": "家庭电话是025-66777990的人的QQ好友是哪个人？", "accounts": [{"value": "025-66777990", "type": "PHONE_NUM", "begin": 5, "end": 17, "code": 470}]}
+{"raw_input": "京A66666和京A88888的车的小儿子是哪个人的？", "accounts": [{"value": "京A66666", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}, {"value": "京A88888", "type": "VEHCARD_VALUE", "begin": 8, "end": 15, "code": 420}]}
+{"raw_input": "在上海市世贸佘山别墅居住的人的继母", "accounts": []}
+{"raw_input": "生活在北京市朝阳区红河小区的人的季父有谁？", "accounts": []}
+{"raw_input": "在南京市新城科技园上班的人的同事有哪些？", "accounts": []}
+{"raw_input": "在湖南海外旅游有限公司工作的人的大哥", "accounts": []}
+{"raw_input": "哪些人是怀化市三中体育有限公司营业部做移动通信工程师的同事？", "accounts": []}
+{"raw_input": "在沭阳远发建材有限公司做自动化工程师的人的祖父", "accounts": []}
+{"raw_input": "哪个人是在绥宁县武阳镇雪域养生的人的阿弟？", "accounts": []}
+{"raw_input": "在盐城市豪意商贸有限公司的总经理的外甥是哪位？", "accounts": []}
+{"raw_input": "烽火星空的员工的老公有哪些人？", "accounts": []}
+{"raw_input": "谁是在上海鲁昱机电设备有限公司的法人的同住人？", "accounts": []}
+{"raw_input": "哪些人是广西南宁弘基建筑劳务有限公司的网络管理员的老朋友？", "accounts": []}
+{"raw_input": "有谁是做自动化工程师在沭阳锡恩工艺品有限公司的人的学长？", "accounts": []}
+{"raw_input": "在路畅做搜索引擎工程师的人的太太是那个人？", "accounts": []}
+{"raw_input": "在腾讯科技当程序员的人的同乡且是跳槽到百度当产品的人的胞妹是谁？", "accounts": []}
+{"raw_input": "手机号是18625173485的岳刚的loaopo是谁", "accounts": [{"value": "18625173485", "type": "MOB_NUM", "begin": 4, "end": 15, "code": 220}, {"value": "loaopo", "type": "UNLABEL", "begin": 19, "end": 25, "code": 1}]}
+{"raw_input": "手机号是18625173485的岳刚的老婆", "accounts": [{"value": "18625173485", "type": "MOB_NUM", "begin": 4, "end": 15, "code": 220}]}
+{"raw_input": "QQ是234324354的向唐江的亲家母是什么人", "accounts": [{"value": "234324354", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "QQ是234324354的向唐江的亲家母", "accounts": [{"value": "234324354", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "谁是18234565325的机主姜鸿的姨夫", "accounts": [{"value": "18234565325", "type": "MOB_NUM", "begin": 2, "end": 13, "code": 220}]}
+{"raw_input": "18234565325的机主的姨夫", "accounts": [{"value": "18234565325", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "籍贯山东的张展的校友有哪些？", "accounts": []}
+{"raw_input": "籍贯是山东的张展的校友", "accounts": []}
+{"raw_input": "苏A24A16的车主梁强的高中同学有谁？", "accounts": [{"value": "苏A24A16", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "苏A24A16的车主梁强的高中同学", "accounts": [{"value": "苏A24A16", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "谁是苏B234C1的车主杨禹的幼儿园老师", "accounts": [{"value": "苏B234C1", "type": "VEHCARD_VALUE", "begin": 2, "end": 9, "code": 420}]}
+{"raw_input": "苏B234C1的车主杨禹的幼儿园老师", "accounts": [{"value": "苏B234C1", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "姓名黎传彬身份证32062319940429861X的人的朋友有谁？", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 8, "end": 26, "code": 461}]}
+{"raw_input": "姓名黎传彬身份证32062319940429861X的人的朋友", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 8, "end": 26, "code": 461}]}
+{"raw_input": "陈韵绫的寄居在北京昌平区城区如园的挚友是谁", "accounts": []}
+{"raw_input": "陈韵绫的寄居在北京昌平区城区如园的挚友", "accounts": []}
+{"raw_input": "住在山东省章丘市明水街道办事处三盘村绣滨街31号的汪贵的男友是什么人？", "accounts": []}
+{"raw_input": "住在山东省章丘市明水街道办事处三盘村绣滨街31号的汪贵的男友", "accounts": []}
+{"raw_input": "那个人是在山西省晋中市介休市定居的侯骞的哥哥", "accounts": []}
+{"raw_input": "在山西省晋中市介休市定居的侯骞的哥哥", "accounts": []}
+{"raw_input": "谁是内蒙古自治区伊克昭盟鄂托克前旗的张炉的阿弟", "accounts": []}
+{"raw_input": "内蒙古自治区伊克昭盟鄂托克前旗的张炉的阿弟", "accounts": []}
+{"raw_input": "曾经在双城国际2号楼租房的罗常的姐妹是什么人？", "accounts": []}
+{"raw_input": "曾经在双城国际2号楼租房的罗常的姐妹", "accounts": []}
+{"raw_input": "在湖南省长沙市市辖区居住的周林的父兄是什么人？", "accounts": []}
+{"raw_input": "在湖南省长沙市市辖区居住的周林的父兄", "accounts": []}
+{"raw_input": "谁是北京新店宝网络科技有限公司的范妍的女儿？", "accounts": []}
+{"raw_input": "北京新店宝网络科技有限公司的范妍的女儿", "accounts": []}
+{"raw_input": "在上海弘夯实业有限公司当设计师的雷景翔的三表妹是谁？", "accounts": []}
+{"raw_input": "在上海弘夯实业有限公司当设计师的雷景翔的三表妹", "accounts": []}
+{"raw_input": "北京晋腾寰宇科技有限公司的强电工程师欧阳司公是谁的侄子？", "accounts": []}
+{"raw_input": "天源家纺的店长罗江勇的小侄子是那个人？", "accounts": []}
+{"raw_input": "天源家纺的店长罗江勇的小侄子", "accounts": []}
+{"raw_input": "苏州十娘餐饮管理有限公司的冯寒的表姐是什么人？", "accounts": []}
+{"raw_input": "苏州十娘餐饮管理有限公司的冯寒的表姐", "accounts": []}
+{"raw_input": "谁是08年在青岛七彩绣商贸有限公司做工程预算员的高钰雯的舅妈？", "accounts": []}
+{"raw_input": "08年在青岛七彩绣商贸有限公司做工程预算员的高钰雯的舅妈", "accounts": []}
+{"raw_input": "手机号18625173485和身份证370829198706019990的人的小外甥是谁", "accounts": [{"value": "18625173485", "type": "MOB_NUM", "begin": 3, "end": 14, "code": 220}, {"value": "370829198706019990", "type": "IDCARD_VALUE", "begin": 18, "end": 36, "code": 461}]}
+{"raw_input": "手机号18625173485和身份证370829198706019990的小外甥", "accounts": [{"value": "18625173485", "type": "MOB_NUM", "begin": 3, "end": 14, "code": 220}, {"value": "370829198706019990", "type": "IDCARD_VALUE", "begin": 18, "end": 36, "code": 461}]}
+{"raw_input": "谁的侄子的证件是652300200702216443和QQ是234324354", "accounts": [{"value": "652300200702216443", "type": "IDCARD_VALUE", "begin": 8, "end": 26, "code": 461}, {"value": "234324354", "type": "QQ_NUM", "begin": 30, "end": 39, "code": 210}]}
+{"raw_input": "wxid_7osqxk2b1pho22和苏A2349D3的车主的堂兄弟有哪些", "accounts": [{"value": "wxid_7osqxk2b1pho22", "type": "WECHAT_VALUE", "begin": 0, "end": 19, "code": 230}, {"value": "A2349D3", "type": "UNLABEL", "begin": 21, "end": 28, "code": 1}]}
+{"raw_input": "wxid_7osqxk2b1pho22和苏A2349D3的车主的堂兄弟的表姑", "accounts": [{"value": "wxid_7osqxk2b1pho22", "type": "WECHAT_VALUE", "begin": 0, "end": 19, "code": 230}, {"value": "A2349D3", "type": "UNLABEL", "begin": 21, "end": 28, "code": 1}]}
+{"raw_input": "wxid_7osqxk2b1pho22和苏A2349D3的车主的堂兄弟", "accounts": [{"value": "wxid_7osqxk2b1pho22", "type": "WECHAT_VALUE", "begin": 0, "end": 19, "code": 230}, {"value": "A2349D3", "type": "UNLABEL", "begin": 21, "end": 28, "code": 1}]}
+{"raw_input": "哪个是定居在内蒙古自治区阿拉善盟阿拉善左旗的120107196407067528的闺女", "accounts": [{"value": "120107196407067528", "type": "IDCARD_VALUE", "begin": 22, "end": 40, "code": 461}]}
+{"raw_input": "定居在内蒙古自治区阿拉善盟阿拉善左旗的120107196407067528的闺女", "accounts": [{"value": "120107196407067528", "type": "IDCARD_VALUE", "begin": 19, "end": 37, "code": 461}]}
+{"raw_input": "谁是居住在德州学院商城6号口的15885084827的姨妈", "accounts": [{"value": "15885084827", "type": "MOB_NUM", "begin": 15, "end": 26, "code": 220}]}
+{"raw_input": "居住在德州学院商城6号口的15885084827姨妈", "accounts": [{"value": "15885084827", "type": "MOB_NUM", "begin": 13, "end": 24, "code": 220}]}
+{"raw_input": "住在陕西省汉中市市辖区的QQ号码1170591840的人的fuqin是谁？", "accounts": [{"value": "1170591840", "type": "QQ_NUM", "begin": 16, "end": 26, "code": 210}]}
+{"raw_input": "住在陕西省汉中市市辖区的QQ号码1170591840的人的fuqin", "accounts": [{"value": "1170591840", "type": "QQ_NUM", "begin": 16, "end": 26, "code": 210}]}
+{"raw_input": "寄居在内蒙古赤峰红山区站前街军城菊香花园军城副食商店的wxid_btjlpd7fdxd722是什么人的表叔", "accounts": [{"value": "wxid_btjlpd7fdxd722", "type": "WECHAT_VALUE", "begin": 27, "end": 46, "code": 230}]}
+{"raw_input": "在四川省富顺县板桥镇龙乘村二组43号合租的13521805673@189.cn的表嫂是那个人", "accounts": [{"value": "13521805673@189.cn", "type": "EMAIL_VALUE", "begin": 21, "end": 39, "code": 240}]}
+{"raw_input": "在四川省富顺县板桥镇龙乘村二组43号合租的13521805673@189.cn的表嫂", "accounts": [{"value": "13521805673@189.cn", "type": "EMAIL_VALUE", "begin": 21, "end": 39, "code": 240}]}
+{"raw_input": "德清乾元经济开发区租房的110108195201081439的高中同学有哪些", "accounts": [{"value": "110108195201081439", "type": "IDCARD_VALUE", "begin": 12, "end": 30, "code": 461}]}
+{"raw_input": "德清乾元经济开发区租房的110108195201081439的高中同学", "accounts": [{"value": "110108195201081439", "type": "IDCARD_VALUE", "begin": 12, "end": 30, "code": 461}]}
+{"raw_input": "租房住在广东省潮州市市辖区的微博账号23245454534的人是谁的婶婶？", "accounts": [{"value": "23245454534", "type": "MICROBLOG_VALUE", "begin": 18, "end": 29, "code": 290}]}
+{"raw_input": "沈阳市铁西区嘉禾面食店当采购员的122002950@qq.com的小叔叔是谁？", "accounts": [{"value": "122002950@qq.com", "type": "EMAIL_VALUE", "begin": 16, "end": 32, "code": 240}]}
+{"raw_input": "沈阳市铁西区嘉禾面食店当采购员的122002950@qq.com的小叔叔", "accounts": [{"value": "122002950@qq.com", "type": "EMAIL_VALUE", "begin": 16, "end": 32, "code": 240}]}
+{"raw_input": "谁是瑞安市亿登鞋业有限公司当店员的152128199609040027的外祖母", "accounts": [{"value": "152128199609040027", "type": "IDCARD_VALUE", "begin": 17, "end": 35, "code": 461}]}
+{"raw_input": "瑞安市亿登鞋业有限公司当店员的152128199609040027的外祖母", "accounts": [{"value": "152128199609040027", "type": "IDCARD_VALUE", "begin": 15, "end": 33, "code": 461}]}
+{"raw_input": "在南京拓科达生物技术有限公司当管理员的15090655610是什么人的阿姨", "accounts": [{"value": "15090655610", "type": "MOB_NUM", "begin": 19, "end": 30, "code": 220}]}
+{"raw_input": "威远县鑫茂瓷业有限公司qQ号是1098902717的员工", "accounts": [{"value": "1098902717", "type": "QQ_NUM", "begin": 15, "end": 25, "code": 210}]}
+{"raw_input": "威远县鑫茂瓷业有限公司哪个员工的qQ号是1098902717", "accounts": [{"value": "1098902717", "type": "QQ_NUM", "begin": 20, "end": 30, "code": 210}]}
+{"raw_input": "中山市茂庆灯饰有限公司微信是wxid_2e9igsrwepwv22的人的表姐夫是谁", "accounts": [{"value": "wxid_2e9igsrwepwv22", "type": "WECHAT_VALUE", "begin": 14, "end": 33, "code": 230}]}
+{"raw_input": "中山市茂庆灯饰有限公司微信是wxid_2e9igsrwepwv22的人的表姐夫", "accounts": [{"value": "wxid_2e9igsrwepwv22", "type": "WECHAT_VALUE", "begin": 14, "end": 33, "code": 230}]}
+{"raw_input": "谁是深圳市威迪贸易有限公司上班的qq号1527866791的弟弟", "accounts": [{"value": "1527866791", "type": "QQ_NUM", "begin": 19, "end": 29, "code": 210}]}
+{"raw_input": "深圳市威迪贸易有限公司上班的qq号1527866791的弟弟", "accounts": [{"value": "1527866791", "type": "QQ_NUM", "begin": 17, "end": 27, "code": 210}]}
+{"raw_input": "谁是在日本电气公司做文档工程师的18182051390的母亲", "accounts": [{"value": "18182051390", "type": "MOB_NUM", "begin": 16, "end": 27, "code": 220}]}
+{"raw_input": "在日本电气公司做文档工程师的18182051390的母亲", "accounts": [{"value": "18182051390", "type": "MOB_NUM", "begin": 14, "end": 25, "code": 220}]}
+{"raw_input": "尚亮的表弟的同学是谁", "accounts": []}
+{"raw_input": "韩晓韶的老婆的同案是谁？", "accounts": []}
+{"raw_input": "谁是唐大波的同学的同监人？", "accounts": []}
+{"raw_input": "高炼的同住人的兄长是哪一位？", "accounts": []}
+{"raw_input": "昨天下班和简兴同行的人同窗有哪些？", "accounts": []}
+{"raw_input": "QQ号451255203的四姨的兄弟", "accounts": [{"value": "451255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "15945610006的爱人的同案人", "accounts": [{"value": "15945610006", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "qQ号码868233062的母亲的叔叔是那位？", "accounts": [{"value": "868233062", "type": "QQ_NUM", "begin": 4, "end": 13, "code": 210}]}
+{"raw_input": "18625173586这个手机号码的同学的同网吧人是谁？", "accounts": [{"value": "18625173586", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "18625173586的同学的同网吧人", "accounts": [{"value": "18625173586", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "谁是wxid_8n9p7wz0uccp12的同事的哥？", "accounts": [{"value": "wxid_8n9p7wz0uccp12", "type": "WECHAT_VALUE", "begin": 2, "end": 21, "code": 230}]}
+{"raw_input": "wxid_8n9p7wz0uccp12的同事的同伙人是谁？", "accounts": [{"value": "wxid_8n9p7wz0uccp12", "type": "WECHAT_VALUE", "begin": 0, "end": 19, "code": 230}]}
+{"raw_input": "99554422775@126.com的同乡的世叔是哪个人？", "accounts": [{"value": "99554422775@126.com", "type": "EMAIL_VALUE", "begin": 0, "end": 19, "code": 240}]}
+{"raw_input": "抖音号125035044的老公的姨夫是谁？", "accounts": [{"value": "125035044", "type": "DOUYIN_VALUE", "begin": 3, "end": 12, "code": 250}]}
+{"raw_input": "京东账号dgddddghj的父亲的远方侄子是哪儿一位？", "accounts": [{"value": "dgddddghj", "type": "JD_VALUE", "begin": 4, "end": 13, "code": 260}]}
+{"raw_input": "谁是支付宝账号18851951427的叔叔的同学？", "accounts": [{"value": "18851951427", "type": "ALIPAY_VALU", "begin": 7, "end": 18, "code": 270}]}
+{"raw_input": "淘宝号是qianjin891255203的同伙的老姐是谁？", "accounts": [{"value": "qianjin891255203", "type": "TAOBAO_VALUE", "begin": 4, "end": 20, "code": 280}]}
+{"raw_input": "微博为891255203的同监人的堂兄弟是谁？", "accounts": [{"value": "891255203", "type": "MICROBLOG_VALUE", "begin": 3, "end": 12, "code": 290}]}
+{"raw_input": "苏A12345的车主的表叔的爱人", "accounts": [{"value": "苏A12345", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "谁是沪B56789的车主的老伴的孙女？", "accounts": [{"value": "沪B56789", "type": "VEHCARD_VALUE", "begin": 2, "end": 9, "code": 420}]}
+{"raw_input": "车牌号是赣F98765的同事的二堂妹是哪位？", "accounts": [{"value": "赣F98765", "type": "VEHCARD_VALUE", "begin": 4, "end": 11, "code": 420}]}
+{"raw_input": "320581199507074529的丈夫的叔叔", "accounts": [{"value": "320581199507074529", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "32062319940429861X的同乡的表姑是哪个人？", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "谁是身份证号32062319940429861X的同学的同乡？", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 6, "end": 24, "code": 461}]}
+{"raw_input": "京A66666和京A88888的车的小儿子的舅妈是哪个人的？", "accounts": [{"value": "京A66666", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}, {"value": "京A88888", "type": "VEHCARD_VALUE", "begin": 8, "end": 15, "code": 420}]}
+{"raw_input": "在上海市世贸佘山别墅居住的人的继母的朋友", "accounts": []}
+{"raw_input": "生活在北京市朝阳区红河小区的人的季父的家人是谁？", "accounts": []}
+{"raw_input": "在南京市新城科技园上班的人的同事的密友有哪些人？", "accounts": []}
+{"raw_input": "哪儿些人是佛山市南海区金山路142号工作的同事的的同监人？", "accounts": []}
+{"raw_input": "谁是在山东省济宁市金乡县兴隆乡寨里集村逗留过的人的同室的亲娘？", "accounts": []}
+{"raw_input": "谁是内蒙古自治区鄂尔多斯市人的同住人的妻室？", "accounts": []}
+{"raw_input": "老家是广东省云浮市云城区腰古镇的同乡的老丈人是谁？", "accounts": []}
+{"raw_input": "那儿些人是去江西省赣州市龙南县出差的人的同行人的姻亲？", "accounts": []}
+{"raw_input": "出生在小河居委朝阳村并且在南京市雨花台区铁心大厦工作的人的同学的老姑有哪些？", "accounts": []}
+{"raw_input": "在苏州市吴中区工作曾到公明街道办甲子塘大道逗留的人室友的故旧是谁？", "accounts": []}
+{"raw_input": "在湖南海外旅游有限公司工作的人的大哥的表叔", "accounts": []}
+{"raw_input": "哪些人是怀化市三中体育有限公司营业部做移动通信工程师的同事的学妹？", "accounts": []}
+{"raw_input": "在沭阳远发建材有限公司做自动化工程师的人的祖父的高中同学是谁？", "accounts": []}
+{"raw_input": "哪个人是在绥宁县武阳镇雪域养生的人的同乡的侄儿？", "accounts": []}
+{"raw_input": "在盐城市豪意商贸有限公司的总经理的外甥的老婆是哪位？", "accounts": []}
+{"raw_input": "烽火星空的员工的老公的二侄子有哪些人？", "accounts": []}
+{"raw_input": "谁是在上海鲁昱机电设备有限公司的法人的同住人的女儿？", "accounts": []}
+{"raw_input": "哪些人是做网络管理员在广西南宁弘基建筑劳务有限公司的老朋友的同监人？", "accounts": []}
+{"raw_input": "有谁是做自动化工程师在沭阳锡恩工艺品有限公司的人的学长的同乡？", "accounts": []}
+{"raw_input": "在路畅做搜索引擎工程师的人的太太的同行人是那个人？", "accounts": []}
+{"raw_input": "手机号是15172912378的岳姗姗的loaopo的大学导师是谁", "accounts": [{"value": "15172912378", "type": "MOB_NUM", "begin": 4, "end": 15, "code": 220}, {"value": "loaopo", "type": "UNLABEL", "begin": 20, "end": 26, "code": 1}]}
+{"raw_input": "手机号是15172912378的岳姗姗的loaopo的大学导师", "accounts": [{"value": "15172912378", "type": "MOB_NUM", "begin": 4, "end": 15, "code": 220}, {"value": "loaopo", "type": "UNLABEL", "begin": 20, "end": 26, "code": 1}]}
+{"raw_input": "QQ是234324354的轩辕渡的亲家母的外甥女是什么人", "accounts": [{"value": "234324354", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "QQ是234324354的轩辕渡的亲家母的外甥女", "accounts": [{"value": "234324354", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "谁是18234565325的机主罗正秀的姨夫的大学同学", "accounts": [{"value": "18234565325", "type": "MOB_NUM", "begin": 2, "end": 13, "code": 220}]}
+{"raw_input": "18234565325的机主罗正秀的姨夫的大学同学", "accounts": [{"value": "18234565325", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "籍贯是江苏南京的邵婧的姨爹的故交有哪些？", "accounts": []}
+{"raw_input": "籍贯是江苏南京的邵婧的姨爹的故交", "accounts": []}
+{"raw_input": "苏A24A16的车主张国龙的阿姐的高中同学有谁？", "accounts": [{"value": "苏A24A16", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "苏A24A16的车主张国龙的阿姐的高中同学", "accounts": [{"value": "苏A24A16", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "谁是苏B234C1的车主李书文的女儿的幼儿园老师", "accounts": [{"value": "苏B234C1", "type": "VEHCARD_VALUE", "begin": 2, "end": 9, "code": 420}]}
+{"raw_input": "苏B234C1的车主李书文的女儿的幼儿园老师", "accounts": [{"value": "苏B234C1", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "姓名马彪身份证32062319940429861X的侄儿的高中老师有谁？", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 7, "end": 25, "code": 461}]}
+{"raw_input": "姓名马彪身份证32062319940429861X的侄儿的高中老师", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 7, "end": 25, "code": 461}]}
+{"raw_input": "陈韵绫的住在徐州市睢宁县高作镇官汪村43号的表姑的师姐是谁", "accounts": []}
+{"raw_input": "陈韵绫的寄居在北京昌平区城区如园的挚友的老公", "accounts": []}
+{"raw_input": "住在海南省南沙群岛的汪贵的侄子的小弟是什么人？", "accounts": []}
+{"raw_input": "住在海南省南沙群岛的汪贵的侄子的小弟", "accounts": []}
+{"raw_input": "谁是内蒙古自治区伊克昭盟鄂托克前旗的张炉的阿弟的小学老师", "accounts": []}
+{"raw_input": "内蒙古自治区伊克昭盟鄂托克前旗的张炉的阿弟的中学老师", "accounts": []}
+{"raw_input": "曾经在东屯渡街道杨帆小区租房的张如的姐姐的叔叔是什么人？", "accounts": []}
+{"raw_input": "曾经在东屯渡街道杨帆小区租房的张如的姐姐的奶奶", "accounts": []}
+{"raw_input": "在南平四公里青龙路白鹤苑1栋居住的任明华的姨娘的小叔子是什么人？", "accounts": []}
+{"raw_input": "在南平四公里青龙路白鹤苑1栋居住的任明华的姨娘的外公", "accounts": []}
+{"raw_input": "谁是康乐幼儿园康乐幼儿园做老师的余政华的女儿的小弟？", "accounts": []}
+{"raw_input": "康乐幼儿园康乐幼儿园做老师的余政华的女儿的小弟", "accounts": []}
+{"raw_input": "在平湖新南统建楼98号千百信投资发展公司当设计师的刘怀海的三表妹的父辈是谁？", "accounts": []}
+{"raw_input": "在平湖新南统建楼98号千百信投资发展公司当设计师的刘怀海的三表妹的父", "accounts": []}
+{"raw_input": "兴化市沪宝集团的总经理杨正武的姨妈的小侄子是那个人？", "accounts": []}
+{"raw_input": "兴化市沪宝集团的总经理杨正武的姨妈的小侄子", "accounts": []}
+{"raw_input": "佳立汽车附件厂的辛良舰的表姐的哥哥是什么人？", "accounts": []}
+{"raw_input": "佳立汽车附件厂的辛良舰的表姐的哥哥", "accounts": []}
+{"raw_input": "谁是08年在莱州市春色女装店卖衣服的高钰雯的舅妈的至友？", "accounts": []}
+{"raw_input": "08年在莱州市春色女装店卖衣服的高钰雯的舅妈的至友", "accounts": []}
+{"raw_input": "手机号18625173485和身份证370829198706019990的人的小外甥的舅妈是谁", "accounts": [{"value": "18625173485", "type": "MOB_NUM", "begin": 3, "end": 14, "code": 220}, {"value": "370829198706019990", "type": "IDCARD_VALUE", "begin": 18, "end": 36, "code": 461}]}
+{"raw_input": "手机号18625173485和身份证370829198706019990的人的小外甥的舅妈", "accounts": [{"value": "18625173485", "type": "MOB_NUM", "begin": 3, "end": 14, "code": 220}, {"value": "370829198706019990", "type": "IDCARD_VALUE", "begin": 18, "end": 36, "code": 461}]}
+{"raw_input": "谁的侄子的学妹的证件是652300200702216443", "accounts": [{"value": "652300200702216443", "type": "IDCARD_VALUE", "begin": 11, "end": 29, "code": 461}]}
+{"raw_input": "wxid_7osqxk2b1pho22和苏A2349D3的车主的堂兄弟有哪些", "accounts": [{"value": "wxid_7osqxk2b1pho22", "type": "WECHAT_VALUE", "begin": 0, "end": 19, "code": 230}, {"value": "A2349D3", "type": "UNLABEL", "begin": 21, "end": 28, "code": 1}]}
+{"raw_input": "wxid_7osqxk2b1pho22和苏A2349D3的车主的堂兄弟的表姑", "accounts": [{"value": "wxid_7osqxk2b1pho22", "type": "WECHAT_VALUE", "begin": 0, "end": 19, "code": 230}, {"value": "A2349D3", "type": "UNLABEL", "begin": 21, "end": 28, "code": 1}]}
+{"raw_input": "哪个是定居在西藏自治区米林县的120107196407067528的闺女的男朋友", "accounts": [{"value": "120107196407067528", "type": "IDCARD_VALUE", "begin": 15, "end": 33, "code": 461}]}
+{"raw_input": "定居在西藏自治区米林县的120107196407067528的闺女的男朋友", "accounts": [{"value": "120107196407067528", "type": "IDCARD_VALUE", "begin": 12, "end": 30, "code": 461}]}
+{"raw_input": "谁是居住在四川省重庆市市中区的15885084827的姨妈的舍友", "accounts": [{"value": "15885084827", "type": "MOB_NUM", "begin": 15, "end": 26, "code": 220}]}
+{"raw_input": "居住在四川省重庆市市中区的15885084827的姨妈的舍友", "accounts": [{"value": "15885084827", "type": "MOB_NUM", "begin": 13, "end": 24, "code": 220}]}
+{"raw_input": "住在广东省广州市烈桥石板巷2号的QQ号码是1170591840的人的堂叔的fuqin是谁？", "accounts": [{"value": "1170591840", "type": "QQ_NUM", "begin": 21, "end": 31, "code": 210}]}
+{"raw_input": "住在广东省广州市烈桥石板巷2号的QQ号码是1170591840的人的堂叔的fuqin", "accounts": [{"value": "1170591840", "type": "QQ_NUM", "begin": 21, "end": 31, "code": 210}]}
+{"raw_input": "在江苏省淮阴市淮阴县合租的13521805673@189.cn的表嫂的胞妹是那个人", "accounts": [{"value": "13521805673@189.cn", "type": "EMAIL_VALUE", "begin": 13, "end": 31, "code": 240}]}
+{"raw_input": "在江苏省淮阴市淮阴县合租的13521805673@189.cn的表嫂的胞妹", "accounts": [{"value": "13521805673@189.cn", "type": "EMAIL_VALUE", "begin": 13, "end": 31, "code": 240}]}
+{"raw_input": "广西壮族自治区钟山县租房的110108195201081439的师妹的高中同学有哪些", "accounts": [{"value": "110108195201081439", "type": "IDCARD_VALUE", "begin": 13, "end": 31, "code": 461}]}
+{"raw_input": "广西壮族自治区钟山县租房的110108195201081439的师妹的高中同学", "accounts": [{"value": "110108195201081439", "type": "IDCARD_VALUE", "begin": 13, "end": 31, "code": 461}]}
+{"raw_input": "泰州鑫斯硕电子科技有限公司的122002950@qq.com的小叔叔的舅舅是谁？", "accounts": [{"value": "122002950@qq.com", "type": "EMAIL_VALUE", "begin": 14, "end": 30, "code": 240}]}
+{"raw_input": "泰州鑫斯硕电子科技有限公司的122002950@qq.com的小叔叔的舅舅", "accounts": [{"value": "122002950@qq.com", "type": "EMAIL_VALUE", "begin": 14, "end": 30, "code": 240}]}
+{"raw_input": "谁是重庆中恒有机玻璃制品有限公司当店员的152128199609040027的外祖母的侄儿", "accounts": [{"value": "152128199609040027", "type": "IDCARD_VALUE", "begin": 20, "end": 38, "code": 461}]}
+{"raw_input": "重庆中恒有机玻璃制品有限公司当店员的152128199609040027的外祖母的侄儿", "accounts": [{"value": "152128199609040027", "type": "IDCARD_VALUE", "begin": 18, "end": 36, "code": 461}]}
+{"raw_input": "临汾市鑫奥克建材有限公司微信是wxid_2e9igsrwepwv22的人的表姐夫的老朋友", "accounts": [{"value": "wxid_2e9igsrwepwv22", "type": "WECHAT_VALUE", "begin": 15, "end": 34, "code": 230}]}
+{"raw_input": "谁是在日本电气公司做文档工程师的18182051390的母亲的弟", "accounts": [{"value": "18182051390", "type": "MOB_NUM", "begin": 16, "end": 27, "code": 220}]}
+{"raw_input": "在日本电气公司做文档工程师的18182051390的母亲的弟", "accounts": [{"value": "18182051390", "type": "MOB_NUM", "begin": 14, "end": 25, "code": 220}]}
+{"raw_input": "礼拜天和王五一起开房的人？", "accounts": []}
+{"raw_input": "有哪些人是和江邻一起同宿的人？", "accounts": []}
+{"raw_input": "淘宝账号是qianjin891255203的寄宿地？", "accounts": [{"value": "qianjin891255203", "type": "TAOBAO_VALUE", "begin": 5, "end": 21, "code": 280}]}
+{"raw_input": "和qq号是891255203的人住一起的人是哪位？", "accounts": [{"value": "891255203", "type": "QQ_NUM", "begin": 5, "end": 14, "code": 210}]}
+{"raw_input": "和18320115594住宿的人是谁？", "accounts": [{"value": "18320115594", "type": "MOB_NUM", "begin": 1, "end": 12, "code": 220}]}
+{"raw_input": "上个月和身份证号为32062319940429861X一起入宿的人是哪位？", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 9, "end": 27, "code": 461}]}
+{"raw_input": "车牌为浙AHG764的舍友是哪个人？", "accounts": [{"value": "浙AHG764", "type": "VEHCARD_VALUE", "begin": 3, "end": 10, "code": 420}]}
+{"raw_input": "在四川省自贡市自流井区自流井区南湖郡1号门借宿的人是谁？", "accounts": []}
+{"raw_input": "投宿在新塘镇沙埔塘边村田心新一街6号的人有哪些？", "accounts": []}
+{"raw_input": "和青岛业极控股有限公司做通信技术工程师的刘俭一起过夜的人是谁？", "accounts": []}
+{"raw_input": "7月1日出现在从化市鳌头镇大凼村罗村的人", "accounts": []}
+{"raw_input": "上个星期同时出现在莲花新城北苑的人有哪些？", "accounts": []}
+{"raw_input": "和18320115594同时出现的人是谁？", "accounts": [{"value": "18320115594", "type": "MOB_NUM", "begin": 1, "end": 12, "code": 220}]}
+{"raw_input": "谁是经常和114239876@qq.com一起出现在升龙汇金中心的人？", "accounts": [{"value": "114239876@qq.com", "type": "EMAIL_VALUE", "begin": 5, "end": 21, "code": 240}]}
+{"raw_input": "有哪些人是和陈珊婵一起去莫干山的人？", "accounts": []}
+{"raw_input": "和qq号是891255203的人同时出现在南京的人", "accounts": [{"value": "891255203", "type": "QQ_NUM", "begin": 5, "end": 14, "code": 210}]}
+{"raw_input": "公司地址在南京市建邺区云龙山路8号的企业是什么", "accounts": []}
+{"raw_input": "电话为0316-6188788的企业", "accounts": [{"value": "0316-6188788", "type": "PHONE_NUM", "begin": 3, "end": 15, "code": 470}]}
+{"raw_input": "上海轻轻信息科技有限公司", "accounts": []}
+{"raw_input": "邮箱为ywang@njsecnet.com的企业", "accounts": [{"value": "ywang@njsecnet.com", "type": "EMAIL_VALUE", "begin": 3, "end": 21, "code": 240}]}
+{"raw_input": "法人是汪洋的公司", "accounts": []}
+{"raw_input": "注册地址在南京市江宁街道的企业", "accounts": []}
+{"raw_input": "黄文轩的工作单位是哪", "accounts": []}
+{"raw_input": "汪洋是哪家公司的法人", "accounts": []}
+{"raw_input": "姚明喜在哪家单位工作", "accounts": []}
+{"raw_input": "有个员工姓名是黄文轩的公司", "accounts": []}
+{"raw_input": "籍贯是上海并且姓名为黄文轩的人的工作单位", "accounts": []}
+{"raw_input": "法人的籍贯是南京的公司有哪些", "accounts": []}
+{"raw_input": "法人是汪洋并且注册地址是南京市江宁街道的公司名称", "accounts": []}
+{"raw_input": "QQ号891255203的公司", "accounts": [{"value": "891255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "18626173456的工作单位", "accounts": [{"value": "18626173456", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "891255203@qq.com在哪里工作", "accounts": [{"value": "891255203@qq.com", "type": "EMAIL_VALUE", "begin": 0, "end": 16, "code": 240}]}
+{"raw_input": "抖音2132565在哪里工作", "accounts": [{"value": "2132565", "type": "DOUYIN_VALUE", "begin": 2, "end": 9, "code": 250}]}
+{"raw_input": "苏A12345的车主的工作单位", "accounts": [{"value": "苏A12345", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "32062319940429861X的公司", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "居住在南京市七彩星城13栋1单元201室的人的工作单位", "accounts": []}
+{"raw_input": "QQ号891255203的舅舅的工作单位", "accounts": [{"value": "891255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "18626173456的母亲的公司", "accounts": [{"value": "18626173456", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "在软通动力工作的人曾经工作过的公司", "accounts": []}
+{"raw_input": "父亲叫李三的人的工作单位", "accounts": []}
+{"raw_input": "32062319940429861X的娘舅的工作单位", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "QQ是891255203的人的姓名", "accounts": [{"value": "891255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "电话号码是15962310006的人叫什么", "accounts": [{"value": "15962310006", "type": "PHONE_NUM", "begin": 5, "end": 16, "code": 470}]}
+{"raw_input": "464233062的姓名是什么", "accounts": [{"value": "464233062", "type": "UNLABEL", "begin": 0, "end": 9, "code": 1}]}
+{"raw_input": "18625173586是的机主叫什么？", "accounts": [{"value": "18625173586", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "wxid_8n9p7wz0uccp12的的姓名", "accounts": [{"value": "wxid_8n9p7wz0uccp12", "type": "WECHAT_VALUE", "begin": 0, "end": 19, "code": 230}]}
+{"raw_input": "99554422775@126.com的人的姓名？", "accounts": [{"value": "99554422775@126.com", "type": "EMAIL_VALUE", "begin": 0, "end": 19, "code": 240}]}
+{"raw_input": "电话号码为18020017775并且抖音账户为125035044的人的姓名？", "accounts": [{"value": "18020017775", "type": "PHONE_NUM", "begin": 5, "end": 16, "code": 470}, {"value": "125035044", "type": "DOUYIN_VALUE", "begin": 23, "end": 32, "code": 250}]}
+{"raw_input": "淘宝账户为xiaowoniu且微博号是3456432的人的姓名？", "accounts": [{"value": "xiaowoniu", "type": "TAOBAO_VALUE", "begin": 5, "end": 14, "code": 280}, {"value": "3456432", "type": "MICROBLOG_VALUE", "begin": 19, "end": 26, "code": 290}]}
+{"raw_input": "qq为196787955，微信号是xiaowoniu123,邮箱地址是7895444633@qq.com的人的姓名", "accounts": [{"value": "196787955", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}, {"value": "xiaowoniu123", "type": "WECHAT_VALUE", "begin": 17, "end": 29, "code": 230}, {"value": "7895444633@qq.com", "type": "WECHAT_VALUE", "begin": 35, "end": 52, "code": 230}]}
+{"raw_input": "京东号为shaduuhjff，支付宝为13775526664，并且固定号码是88886664的人的姓名？", "accounts": [{"value": "shaduuhjff", "type": "JD_VALUE", "begin": 4, "end": 14, "code": 260}, {"value": "13775526664", "type": "ALIPAY_VALU", "begin": 19, "end": 30, "code": 270}, {"value": "88886664", "type": "PHONE_NUM", "begin": 38, "end": 46, "code": 470}]}
+{"raw_input": "苏A12345的车主的姓名", "accounts": [{"value": "苏A12345", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "车牌号是赣F98765的人的姓名？", "accounts": [{"value": "赣F98765", "type": "VEHCARD_VALUE", "begin": 4, "end": 11, "code": 420}]}
+{"raw_input": "320581199507074529的姓名", "accounts": [{"value": "320581199507074529", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "身份证为32062319940429861X并且车牌为鲁F56789的人的姓名？", "accounts": [{"value": "鲁F56789", "type": "VEHCARD_VALUE", "begin": 27, "end": 34, "code": 420}, {"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 4, "end": 22, "code": 461}]}
+{"raw_input": "京A66666和京A88888的车主的姓名？", "accounts": [{"value": "京A66666", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}, {"value": "京A88888", "type": "VEHCARD_VALUE", "begin": 8, "end": 15, "code": 420}]}
+{"raw_input": "南京市珑湾花园的所有业主的姓名", "accounts": []}
+{"raw_input": "南京市京妆产业园上班的所有员工的姓名？", "accounts": []}
+{"raw_input": "出生在小河居委朝阳村并且在南京市雨花台区铁心大厦工作的那些人的姓名？", "accounts": []}
+{"raw_input": "居住在建邺区莲花新城北苑在新城科技园上班户籍在上海的人的姓名？", "accounts": []}
+{"raw_input": "在上海卡耐新能源有限公司做移动通信工程师的人员的姓名？", "accounts": []}
+{"raw_input": "北京当红齐天国际文化科技发展集团有限公司的总经理的姓名？", "accounts": []}
+{"raw_input": "万达的所有员工的姓名？", "accounts": []}
+{"raw_input": "今日头条的法人的姓名？", "accounts": []}
+{"raw_input": "在腾讯科技当程序员跳槽到百度当产品经理的人的姓名？", "accounts": []}
+{"raw_input": "在中软国际当财务后来去了厦门农业科技的的人的姓名？", "accounts": []}
+{"raw_input": "担任趣头条董事长同时又是新浪科技的总经理的人的姓名？", "accounts": []}
+{"raw_input": "先后在阿里，饿了么，美团工作的人的姓名？", "accounts": []}
+{"raw_input": "尚亮的表弟叫什么", "accounts": []}
+{"raw_input": "韩晓韶老婆的姓名？", "accounts": []}
+{"raw_input": "祖母是罗俪的人的姓名？", "accounts": []}
+{"raw_input": "张来的舍友的姓名？", "accounts": []}
+{"raw_input": "QQ号451255203的四姨的姓名", "accounts": [{"value": "451255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "电话号码是15945610006的爱人的姓名", "accounts": [{"value": "15945610006", "type": "PHONE_NUM", "begin": 5, "end": 16, "code": 470}]}
+{"raw_input": "18625173586的同学的姓名？", "accounts": [{"value": "18625173586", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "微信号wxid_8n9p7wz0uccp12的同事的姓名？", "accounts": [{"value": "wxid_8n9p7wz0uccp12", "type": "WECHAT_VALUE", "begin": 3, "end": 22, "code": 230}]}
+{"raw_input": "99554422775@126.com的同乡的姓名？", "accounts": [{"value": "99554422775@126.com", "type": "EMAIL_VALUE", "begin": 0, "end": 19, "code": 240}]}
+{"raw_input": "抖音号为125035044的同住人的姓名？", "accounts": [{"value": "125035044", "type": "DOUYIN_VALUE", "begin": 4, "end": 13, "code": 250}]}
+{"raw_input": "电话号码为18020017775的大侄子并且抖音账户为125035044的同事的姓名？", "accounts": [{"value": "18020017775", "type": "PHONE_NUM", "begin": 5, "end": 16, "code": 470}, {"value": "125035044", "type": "DOUYIN_VALUE", "begin": 27, "end": 36, "code": 250}]}
+{"raw_input": "qq为196787955的同事，微信号是xiaowoniu123的同住人,邮箱地址是7895444633@qq.com的同乡的姓名", "accounts": [{"value": "196787955", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}, {"value": "xiaowoniu123", "type": "WECHAT_VALUE", "begin": 20, "end": 32, "code": 230}, {"value": "7895444633@qq.com", "type": "WECHAT_VALUE", "begin": 42, "end": 59, "code": 230}]}
+{"raw_input": "苏A12345的车主的表叔的姓名", "accounts": [{"value": "苏A12345", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "320581199507074529的丈夫的姓名", "accounts": [{"value": "320581199507074529", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "在上海市世贸佘山别墅居住的人的继母的姓名", "accounts": []}
+{"raw_input": "生活在北京市朝阳区红河小区的人的继父的姓名？", "accounts": []}
+{"raw_input": "QQ是891255203的人的籍贯", "accounts": [{"value": "891255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "电话号码是15962310006的人的祖居地", "accounts": [{"value": "15962310006", "type": "PHONE_NUM", "begin": 5, "end": 16, "code": 470}]}
+{"raw_input": "18625173586是的机主的原籍？", "accounts": [{"value": "18625173586", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "wxid_8n9p7wz0uccp12的的籍贯", "accounts": [{"value": "wxid_8n9p7wz0uccp12", "type": "WECHAT_VALUE", "begin": 0, "end": 19, "code": 230}]}
+{"raw_input": "99554422775@126.com的人的籍贯？", "accounts": [{"value": "99554422775@126.com", "type": "EMAIL_VALUE", "begin": 0, "end": 19, "code": 240}]}
+{"raw_input": "电话号码为18020017775并且抖音账户为125035044的人的籍贯？", "accounts": [{"value": "18020017775", "type": "PHONE_NUM", "begin": 5, "end": 16, "code": 470}, {"value": "125035044", "type": "DOUYIN_VALUE", "begin": 23, "end": 32, "code": 250}]}
+{"raw_input": "qq为196787955，微信号是xiaowoniu123,邮箱地址是7895444633@qq.com的人的籍贯", "accounts": [{"value": "196787955", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}, {"value": "xiaowoniu123", "type": "WECHAT_VALUE", "begin": 17, "end": 29, "code": 230}, {"value": "7895444633@qq.com", "type": "WECHAT_VALUE", "begin": 35, "end": 52, "code": 230}]}
+{"raw_input": "京东号为shaduuhjff，支付宝为13775526664，并且固定号码是88886664的人的籍贯？", "accounts": [{"value": "shaduuhjff", "type": "JD_VALUE", "begin": 4, "end": 14, "code": 260}, {"value": "13775526664", "type": "ALIPAY_VALU", "begin": 19, "end": 30, "code": 270}, {"value": "88886664", "type": "PHONE_NUM", "begin": 38, "end": 46, "code": 470}]}
+{"raw_input": "苏A12345的车主的籍贯", "accounts": [{"value": "苏A12345", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "车牌号是赣F98765的人的籍贯？", "accounts": [{"value": "赣F98765", "type": "VEHCARD_VALUE", "begin": 4, "end": 11, "code": 420}]}
+{"raw_input": "320581199507074529的籍贯", "accounts": [{"value": "320581199507074529", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "身份证号是32062319940429861X的人的籍贯？", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 5, "end": 23, "code": 461}]}
+{"raw_input": "身份证为32062319940429861X并且车牌为鲁F56789的人的籍贯？", "accounts": [{"value": "鲁F56789", "type": "VEHCARD_VALUE", "begin": 27, "end": 34, "code": 420}, {"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 4, "end": 22, "code": 461}]}
+{"raw_input": "京A66666和京A88888的车主的籍贯？", "accounts": [{"value": "京A66666", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}, {"value": "京A88888", "type": "VEHCARD_VALUE", "begin": 8, "end": 15, "code": 420}]}
+{"raw_input": "车牌是京BKH789和京Ba234f且身份证为32062319940429861X的人的籍贯？", "accounts": [{"value": "京BKH789", "type": "VEHCARD_VALUE", "begin": 3, "end": 10, "code": 420}, {"value": "Ba234f", "type": "UNLABEL", "begin": 12, "end": 18, "code": 1}, {"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 23, "end": 41, "code": 461}]}
+{"raw_input": "在郑爽工作室做移动通信工程师的人的籍贯？", "accounts": []}
+{"raw_input": "华娱传媒的总经理的籍贯？", "accounts": []}
+{"raw_input": "格力的所有员工的籍贯？", "accounts": []}
+{"raw_input": "小米科技的法人的籍贯？", "accounts": []}
+{"raw_input": "在VIVO做网络管理员的人的籍贯？", "accounts": []}
+{"raw_input": "OPPO的搜索引擎工程师的籍贯？", "accounts": []}
+{"raw_input": "在腾讯科技当程序员跳槽到百度当产品经理的人的籍贯？", "accounts": []}
+{"raw_input": "在华中农业大学做老师后来去了厦门农业科技的的人的籍贯？", "accounts": []}
+{"raw_input": "担任趣头条董事长同时又是新浪科技的总经理的人的籍贯？", "accounts": []}
+{"raw_input": "尚亮的表弟的祖居地", "accounts": []}
+{"raw_input": "韩晓韶老婆的籍贯？", "accounts": []}
+{"raw_input": "端木渝的同网吧人的原籍？", "accounts": []}
+{"raw_input": "张飞和张翔的弟弟的籍贯？", "accounts": []}
+{"raw_input": "祖母是罗俪的人的籍贯？", "accounts": []}
+{"raw_input": "和唐襄一起工作的人的籍贯？", "accounts": []}
+{"raw_input": "同乡叫司徒东青的人的籍贯？", "accounts": []}
+{"raw_input": "和叫宋淘同住的人的籍贯？", "accounts": []}
+{"raw_input": "张来的舍友的籍贯？", "accounts": []}
+{"raw_input": "室友叫雷冰的人的籍贯？", "accounts": []}
+{"raw_input": "弟媳叫张东来并且和郭家是同事的人的籍贯？", "accounts": []}
+{"raw_input": "同班同学是潘镇并且外甥女叫苏梅的人的籍贯？", "accounts": []}
+{"raw_input": "QQ号码451255203的四姨的籍贯", "accounts": [{"value": "451255203", "type": "QQ_NUM", "begin": 4, "end": 13, "code": 210}]}
+{"raw_input": "电话号码是15945610006的爱人的籍贯", "accounts": [{"value": "15945610006", "type": "PHONE_NUM", "begin": 5, "end": 16, "code": 470}]}
+{"raw_input": "18625173586这个手机号码的同学的籍贯？", "accounts": [{"value": "18625173586", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "18625173586的同学的籍贯？", "accounts": [{"value": "18625173586", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "微信号wxid_8n9p7wz0uccp12的同事的籍贯？", "accounts": [{"value": "wxid_8n9p7wz0uccp12", "type": "WECHAT_VALUE", "begin": 3, "end": 22, "code": 230}]}
+{"raw_input": "99554422775@126.com的同乡的籍贯？", "accounts": [{"value": "99554422775@126.com", "type": "EMAIL_VALUE", "begin": 0, "end": 19, "code": 240}]}
+{"raw_input": "抖音号为125035044的同住人的籍贯？", "accounts": [{"value": "125035044", "type": "DOUYIN_VALUE", "begin": 4, "end": 13, "code": 250}]}
+{"raw_input": "电话号码为18020017775的大侄子并且抖音账户为125035044的同事的籍贯？", "accounts": [{"value": "18020017775", "type": "PHONE_NUM", "begin": 5, "end": 16, "code": 470}, {"value": "125035044", "type": "DOUYIN_VALUE", "begin": 27, "end": 36, "code": 250}]}
+{"raw_input": "qq为196787955的同事，微信号是xiaowoniu123的同住人,邮箱地址是7895444633@qq.com的同乡的籍贯", "accounts": [{"value": "196787955", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}, {"value": "xiaowoniu123", "type": "WECHAT_VALUE", "begin": 20, "end": 32, "code": 230}, {"value": "7895444633@qq.com", "type": "WECHAT_VALUE", "begin": 42, "end": 59, "code": 230}]}
+{"raw_input": "苏A12345的车主的表叔的籍贯", "accounts": [{"value": "苏A12345", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "沪B56789的车主的老伴的籍贯", "accounts": [{"value": "沪B56789", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "320581199507074529的丈夫的籍贯", "accounts": [{"value": "320581199507074529", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "身份证号32062319940429861X的同学的籍贯？", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 4, "end": 22, "code": 461}]}
+{"raw_input": "身份证为32062319940429861X的同行人并且车牌为鲁F56789的同伙人的籍贯？", "accounts": [{"value": "鲁F56789", "type": "VEHCARD_VALUE", "begin": 31, "end": 38, "code": 420}, {"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 4, "end": 22, "code": 461}]}
+{"raw_input": "京A66666和京A88888的车主的小儿子的籍贯？", "accounts": [{"value": "京A66666", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}, {"value": "京A88888", "type": "VEHCARD_VALUE", "begin": 8, "end": 15, "code": 420}]}
+{"raw_input": "车牌是京BKH789和京Ba234f的岳母且身份证为32062319940429861X的老师的籍贯？", "accounts": [{"value": "京BKH789", "type": "VEHCARD_VALUE", "begin": 3, "end": 10, "code": 420}, {"value": "Ba234f", "type": "UNLABEL", "begin": 12, "end": 18, "code": 1}, {"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 26, "end": 44, "code": 461}]}
+{"raw_input": "QQ是891255203的人的工作单位", "accounts": [{"value": "891255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "18625173586是的机主在哪里工作", "accounts": [{"value": "18625173586", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "淘宝账户为xiaowoniu且微博号是3456432的人在哪里上班", "accounts": [{"value": "xiaowoniu", "type": "TAOBAO_VALUE", "begin": 5, "end": 14, "code": 280}, {"value": "3456432", "type": "MICROBLOG_VALUE", "begin": 19, "end": 26, "code": 290}]}
+{"raw_input": "京A66666和京A88888的车主的工作单位？", "accounts": [{"value": "京A66666", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}, {"value": "京A88888", "type": "VEHCARD_VALUE", "begin": 8, "end": 15, "code": 420}]}
+{"raw_input": "苏A12345的车主的工作单位是哪个", "accounts": [{"value": "苏A12345", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "车牌号是赣F98765的人的工作单位？", "accounts": [{"value": "赣F98765", "type": "VEHCARD_VALUE", "begin": 4, "end": 11, "code": 420}]}
+{"raw_input": "wxid_8n9p7wz0uccp12的工作单位", "accounts": [{"value": "wxid_8n9p7wz0uccp12", "type": "WECHAT_VALUE", "begin": 0, "end": 19, "code": 230}]}
+{"raw_input": "周宵宵的室友和史新礼的外甥女的工作单位是什么", "accounts": []}
+{"raw_input": "室友叫雷冰的人在那家单位上班", "accounts": []}
+{"raw_input": "18625173586的同学在那家公司工作", "accounts": [{"value": "18625173586", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "抖音号为125035044的同住人公司是哪个", "accounts": [{"value": "125035044", "type": "DOUYIN_VALUE", "begin": 4, "end": 13, "code": 250}]}
+{"raw_input": "身份证为32062319940429861X的同行人并且车牌为鲁F56789的同伙人是哪个公司的", "accounts": [{"value": "鲁F56789", "type": "VEHCARD_VALUE", "begin": 31, "end": 38, "code": 420}, {"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 4, "end": 22, "code": 461}]}
+{"raw_input": "电话号码为18020017775并且抖音账户为125035044的人的家庭住址？", "accounts": [{"value": "18020017775", "type": "PHONE_NUM", "begin": 5, "end": 16, "code": 470}, {"value": "125035044", "type": "DOUYIN_VALUE", "begin": 23, "end": 32, "code": 250}]}
+{"raw_input": "电话号码是15962310006的人家住哪里", "accounts": [{"value": "15962310006", "type": "PHONE_NUM", "begin": 5, "end": 16, "code": 470}]}
+{"raw_input": "身份证号是32062319940429861X的人住在哪里", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 5, "end": 23, "code": 461}]}
+{"raw_input": "在上海鼎纪当程序员跳槽到百度当产品经理的人的家庭地址是哪里", "accounts": []}
+{"raw_input": "上海云虎软件的所有员工的家庭住址？", "accounts": []}
+{"raw_input": "在科大讯飞做搜索引擎工程师的李晓的地址", "accounts": []}
+{"raw_input": "尚亮的表弟的老家的地址", "accounts": []}
+{"raw_input": "韩晓韶老婆家的地址", "accounts": []}
+{"raw_input": "石见的大伯并且是谭汶的同住人的住址？", "accounts": []}
+{"raw_input": "同乡叫司徒东青的人的住址是哪里？", "accounts": []}
+{"raw_input": "QQ是451255203的四姨的家庭住址", "accounts": [{"value": "451255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "18625173586这个手机号码的同学的家庭住址？", "accounts": [{"value": "18625173586", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "微信号wxid_8n9p7wz0uccp12的同事的家庭住址？", "accounts": [{"value": "wxid_8n9p7wz0uccp12", "type": "WECHAT_VALUE", "begin": 3, "end": 22, "code": 230}]}
+{"raw_input": "qq为196787955的同事，微信号是xiaowoniu123的同住人,邮箱地址是7895444633@qq.com的同乡的家庭住址", "accounts": [{"value": "196787955", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}, {"value": "xiaowoniu123", "type": "WECHAT_VALUE", "begin": 20, "end": 32, "code": 230}, {"value": "7895444633@qq.com", "type": "WECHAT_VALUE", "begin": 42, "end": 59, "code": 230}]}
+{"raw_input": "苏A12345的车主的表叔的家庭住址", "accounts": [{"value": "苏A12345", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "99554422775@126.com的手机号码？", "accounts": [{"value": "99554422775@126.com", "type": "EMAIL_VALUE", "begin": 0, "end": 19, "code": 240}]}
+{"raw_input": "320581199507074529的手机号", "accounts": [{"value": "320581199507074529", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "身份证为32062319940429861X并且车牌为鲁F56789的人的手机号码？", "accounts": [{"value": "鲁F56789", "type": "VEHCARD_VALUE", "begin": 27, "end": 34, "code": 420}, {"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 4, "end": 22, "code": 461}]}
+{"raw_input": "住在南京市七彩星城的张婷婷的QQ号", "accounts": []}
+{"raw_input": "在富源服饰工作的张富贵的抖音账号", "accounts": []}
+{"raw_input": "宋淘的室友的京东账号？", "accounts": []}
+{"raw_input": "张来的舍友的淘宝账号？", "accounts": []}
+{"raw_input": "在东方网力科技股份有限公司做网络管理员的刘欢的支付宝账号是多少？", "accounts": []}
+{"raw_input": "在华为南研所工作的刘萌萌的手机号？", "accounts": []}
+{"raw_input": "祖母是罗俪的人的手机号码？", "accounts": []}
+{"raw_input": "15945610006的爱人的手机号码", "accounts": [{"value": "15945610006", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "99554422775@126.com的同乡的手机号码？", "accounts": [{"value": "99554422775@126.com", "type": "EMAIL_VALUE", "begin": 0, "end": 19, "code": 240}]}
+{"raw_input": "电话号码为18020017775的大侄子并且抖音账户为125035044的同事的手机号码？", "accounts": [{"value": "18020017775", "type": "PHONE_NUM", "begin": 5, "end": 16, "code": 470}, {"value": "125035044", "type": "DOUYIN_VALUE", "begin": 27, "end": 36, "code": 250}]}
+{"raw_input": "沪B56789的车主的老伴的手机号码", "accounts": [{"value": "沪B56789", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "320581199507074529的丈夫的手机号码", "accounts": [{"value": "320581199507074529", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "公司地址在南京市建邺区云龙山路8号的企业的工商注册号", "accounts": []}
+{"raw_input": "电话为0316-6188788的企业的工商注册号", "accounts": [{"value": "0316-6188788", "type": "PHONE_NUM", "begin": 3, "end": 15, "code": 470}]}
+{"raw_input": "上海轻轻信息科技有限公司的工商注册号", "accounts": []}
+{"raw_input": "邮箱为ywang@njsecnet.com的企业的工商注册号", "accounts": [{"value": "ywang@njsecnet.com", "type": "EMAIL_VALUE", "begin": 3, "end": 21, "code": 240}]}
+{"raw_input": "法人是汪洋的公司的工商注册号", "accounts": []}
+{"raw_input": "注册地址在南京市江宁街道的企业的工商注册号", "accounts": []}
+{"raw_input": "黄文轩的工作单位的工商注册号", "accounts": []}
+{"raw_input": "有个员工姓名是黄文轩的公司的工商注册号", "accounts": []}
+{"raw_input": "籍贯是上海并且姓名为黄文轩的人的工作单位的工商注册号", "accounts": []}
+{"raw_input": "法人的籍贯是南京的公司的工商注册号", "accounts": []}
+{"raw_input": "法人是汪洋并且注册地址是南京市江宁街道的公司的工商注册号", "accounts": []}
+{"raw_input": "QQ号891255203的公司的工商注册号", "accounts": [{"value": "891255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "18626173456的工作单位的工商注册号", "accounts": [{"value": "18626173456", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "891255203@qq.com的公司的工商注册号", "accounts": [{"value": "891255203@qq.com", "type": "EMAIL_VALUE", "begin": 0, "end": 16, "code": 240}]}
+{"raw_input": "0316-6188788的工作单位的工商注册号", "accounts": [{"value": "0316-6188788", "type": "PHONE_NUM", "begin": 0, "end": 12, "code": 470}]}
+{"raw_input": "苏A12345的车主的工作单位的工商注册号", "accounts": [{"value": "苏A12345", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "32062319940429861X的公司的工商注册号", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "居住在南京市七彩星城13栋1单元201室的刘梦的工作单位的工商注册号", "accounts": []}
+{"raw_input": "QQ号891255203的舅舅的工作单位的工商注册号", "accounts": [{"value": "891255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "18626173456的母亲的公司的工商注册号", "accounts": [{"value": "18626173456", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "在软通动力工作的人曾经工作过的公司的工商注册号", "accounts": []}
+{"raw_input": "父亲叫李三的人的工作单位的工商注册号", "accounts": []}
+{"raw_input": "32062319940429861X的娘舅的工作单位的工商注册号", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "公司地址在南京市建邺区云龙山路8号的企业的统一信用代码", "accounts": []}
+{"raw_input": "电话为0316-6188788的企业的统一信用代码", "accounts": [{"value": "0316-6188788", "type": "PHONE_NUM", "begin": 3, "end": 15, "code": 470}]}
+{"raw_input": "上海轻轻信息科技有限公司的统一信用代码", "accounts": []}
+{"raw_input": "邮箱为ywang@njsecnet.com的企业的统一信用代码", "accounts": [{"value": "ywang@njsecnet.com", "type": "EMAIL_VALUE", "begin": 3, "end": 21, "code": 240}]}
+{"raw_input": "法人是汪洋的公司的统一信用代码", "accounts": []}
+{"raw_input": "注册地址在南京市江宁街道的企业的统一信用代码", "accounts": []}
+{"raw_input": "黄文轩的工作单位的统一信用代码", "accounts": []}
+{"raw_input": "有个员工姓名是黄文轩的公司的统一信用代码", "accounts": []}
+{"raw_input": "籍贯是上海并且姓名为黄文轩的人的工作单位的统一信用代码", "accounts": []}
+{"raw_input": "法人的籍贯是南京的公司的统一信用代码", "accounts": []}
+{"raw_input": "法人是汪洋并且注册地址是南京市江宁街道的公司的统一信用代码", "accounts": []}
+{"raw_input": "QQ号891255203的公司的统一信用代码", "accounts": [{"value": "891255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "18626173456的工作单位的统一信用代码", "accounts": [{"value": "18626173456", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "891255203@qq.com的公司的统一信用代码", "accounts": [{"value": "891255203@qq.com", "type": "EMAIL_VALUE", "begin": 0, "end": 16, "code": 240}]}
+{"raw_input": "0316-6188788的工作单位的统一信用代码", "accounts": [{"value": "0316-6188788", "type": "PHONE_NUM", "begin": 0, "end": 12, "code": 470}]}
+{"raw_input": "苏A12345的车主的工作单位的统一信用代码", "accounts": [{"value": "苏A12345", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "32062319940429861X的公司的统一信用代码", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "居住在南京市七彩星城13栋1单元201室的人的工作单位的统一信用代码", "accounts": []}
+{"raw_input": "QQ号891255203的舅舅的工作单位的统一信用代码", "accounts": [{"value": "891255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "18626173456的母亲的公司的统一信用代码", "accounts": [{"value": "18626173456", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "在软通动力工作的人曾经工作过的公司的统一信用代码", "accounts": []}
+{"raw_input": "父亲叫李三的人的工作单位的统一信用代码", "accounts": []}
+{"raw_input": "32062319940429861X的娘舅的工作单位的统一信用代码", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "公司地址在南京市建邺区云龙山路8号的企业的注册时间", "accounts": []}
+{"raw_input": "电话为0316-6188788的企业的注册时间", "accounts": [{"value": "0316-6188788", "type": "PHONE_NUM", "begin": 3, "end": 15, "code": 470}]}
+{"raw_input": "上海轻轻信息科技有限公司的注册时间", "accounts": []}
+{"raw_input": "邮箱为ywang@njsecnet.com的企业的注册时间", "accounts": [{"value": "ywang@njsecnet.com", "type": "EMAIL_VALUE", "begin": 3, "end": 21, "code": 240}]}
+{"raw_input": "法人是汪洋的公司的注册时间", "accounts": []}
+{"raw_input": "注册地址在南京市江宁街道的企业的注册时间", "accounts": []}
+{"raw_input": "黄文轩的工作单位的注册时间", "accounts": []}
+{"raw_input": "有个员工姓名是黄文轩的公司的注册时间", "accounts": []}
+{"raw_input": "籍贯是上海并且姓名为黄文轩的人的工作单位的注册时间", "accounts": []}
+{"raw_input": "法人的籍贯是南京的公司的注册时间", "accounts": []}
+{"raw_input": "法人是汪洋并且注册地址是南京市江宁街道的公司的注册时间", "accounts": []}
+{"raw_input": "QQ号891255203的公司的注册时间", "accounts": [{"value": "891255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "18626173456的工作单位的注册时间", "accounts": [{"value": "18626173456", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "891255203@qq.com的公司的注册时间", "accounts": [{"value": "891255203@qq.com", "type": "EMAIL_VALUE", "begin": 0, "end": 16, "code": 240}]}
+{"raw_input": "0316-6188788的工作单位的注册时间", "accounts": [{"value": "0316-6188788", "type": "PHONE_NUM", "begin": 0, "end": 12, "code": 470}]}
+{"raw_input": "苏A12345的车主的工作单位的注册时间", "accounts": [{"value": "苏A12345", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "32062319940429861X的公司的注册时间", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "居住在南京市七彩星城13栋1单元201室的人的工作单位的注册时间", "accounts": []}
+{"raw_input": "QQ号891255203的舅舅的工作单位的注册时间", "accounts": [{"value": "891255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "18626173456的母亲的公司的注册时间", "accounts": [{"value": "18626173456", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "在软通动力工作的人曾经工作过的公司的注册时间", "accounts": []}
+{"raw_input": "父亲叫李三的人的工作单位的注册时间", "accounts": []}
+{"raw_input": "32062319940429861X的娘舅的工作单位的注册时间", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "公司地址在南京市建邺区云龙山路8号的企业的电话", "accounts": []}
+{"raw_input": "电话为0316-6188788的企业的公司地址", "accounts": [{"value": "0316-6188788", "type": "PHONE_NUM", "begin": 3, "end": 15, "code": 470}]}
+{"raw_input": "上海轻轻信息科技有限公司的注册地址", "accounts": []}
+{"raw_input": "邮箱为ywang@njsecnet.com的企业的登记机关", "accounts": [{"value": "ywang@njsecnet.com", "type": "EMAIL_VALUE", "begin": 3, "end": 21, "code": 240}]}
+{"raw_input": "法人是汪洋的公司的邮箱", "accounts": []}
+{"raw_input": "注册地址在南京市江宁街道的企业的法人", "accounts": []}
+{"raw_input": "黄文轩的工作单位的登记机关", "accounts": []}
+{"raw_input": "有个员工姓名是黄文轩的公司的邮箱", "accounts": []}
+{"raw_input": "籍贯是上海并且姓名为黄文轩的人的工作单位的登记机关", "accounts": []}
+{"raw_input": "法人的籍贯是南京的公司的公司地址", "accounts": []}
+{"raw_input": "法人是汪洋并且注册地址是南京市江宁街道的公司的登记机关", "accounts": []}
+{"raw_input": "QQ号891255203的公司的电话", "accounts": [{"value": "891255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "18626173456的工作单位的登记机关", "accounts": [{"value": "18626173456", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "891255203@qq.com的公司的电话", "accounts": [{"value": "891255203@qq.com", "type": "EMAIL_VALUE", "begin": 0, "end": 16, "code": 240}]}
+{"raw_input": "苏A12345的车主的工作单位的登记机关", "accounts": [{"value": "苏A12345", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}]}
+{"raw_input": "32062319940429861X的公司的注册地址", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "居住在南京市七彩星城13栋1单元201室的人的工作单位的公司地址", "accounts": []}
+{"raw_input": "QQ号891255203的舅舅的工作单位的注册地址", "accounts": [{"value": "891255203", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "18626173456的母亲的公司的注册地址", "accounts": [{"value": "18626173456", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "在软通动力工作的人曾经工作过的公司的公司地址", "accounts": []}
+{"raw_input": "父亲叫李三的人的工作单位的注册地址", "accounts": []}
+{"raw_input": "32062319940429861X的娘舅的工作单位的登记机关", "accounts": [{"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 0, "end": 18, "code": 461}]}
+{"raw_input": "18625173421上登录过哪些微信", "accounts": [{"value": "18625173421", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "18261283214登录过哪些QQ", "accounts": [{"value": "18261283214", "type": "MOB_NUM", "begin": 0, "end": 11, "code": 220}]}
+{"raw_input": "支付宝cc_1234@126.com在哪个手机上登录过", "accounts": [{"value": "cc_1234@126.com", "type": "ALIPAY_VALU", "begin": 3, "end": 18, "code": 270}]}
+{"raw_input": "QQ号23243534的QQ好友有哪些", "accounts": [{"value": "23243534", "type": "QQ_NUM", "begin": 3, "end": 11, "code": 210}]}
+{"raw_input": "QQ号23243534的好友", "accounts": [{"value": "23243534", "type": "QQ_NUM", "begin": 3, "end": 11, "code": 210}]}
+{"raw_input": "微信chen231的好友有哪些", "accounts": [{"value": "chen231", "type": "WECHAT_VALUE", "begin": 2, "end": 9, "code": 230}]}
+{"raw_input": "微信chen231的微信好友", "accounts": [{"value": "chen231", "type": "WECHAT_VALUE", "begin": 2, "end": 9, "code": 230}]}
+{"raw_input": "抖音号dy2301的粉丝", "accounts": [{"value": "dy2301", "type": "DOUYIN_VALUE", "begin": 3, "end": 9, "code": 250}]}
+{"raw_input": "微博2323432534的粉丝", "accounts": [{"value": "2323432534", "type": "MICROBLOG_VALUE", "begin": 2, "end": 12, "code": 290}]}
+{"raw_input": "QQ号232434412创建过哪些QQ群", "accounts": [{"value": "232434412", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "wxid_2325xd346534创建的微信群", "accounts": [{"value": "wxid_2325xd346534", "type": "WECHAT_VALUE", "begin": 0, "end": 17, "code": 230}]}
+{"raw_input": "QQ号232434412加入过哪些QQ群", "accounts": [{"value": "232434412", "type": "QQ_NUM", "begin": 3, "end": 12, "code": 210}]}
+{"raw_input": "wxid_2325xd346534加入的微信群", "accounts": [{"value": "wxid_2325xd346534", "type": "WECHAT_VALUE", "begin": 0, "end": 17, "code": 230}]}
+{"raw_input": "在光芒当花匠的刘祖华的慈父", "accounts": []}
+{"raw_input": "宝坻区武家部门口东侧租房的饶颂的老婆", "accounts": []}
+{"raw_input": "在欧珀莱当设计师的李召模的老爷", "accounts": []}
+{"raw_input": "464233062是哪个人？", "accounts": [{"value": "464233062", "type": "UNLABEL", "begin": 0, "end": 9, "code": 1}]}
+{"raw_input": "烽火科技有限公司是谁？", "accounts": []}
+{"raw_input": "朱丹的手机号在哪儿上班？", "accounts": []}
+{"raw_input": "陶辉的QQ号住在哪？", "accounts": []}
+{"raw_input": "3月28号的凌晨在哪？", "accounts": []}
+{"raw_input": "在烽火科技大厦上班的朱丹的名字叫陶辉的弟弟的手机号是多少", "accounts": []}
+{"raw_input": "陈韵绫的寄居在北京昌平区城区如园的挚友", "accounts": []}
+{"raw_input": "父亲是张三的李四的奶奶是谁？", "accounts": []}
+{"raw_input": "住在西善桥北路89号的18526439876的在华为上班的同学是谁", "accounts": [{"value": "18526439876", "type": "MOB_NUM", "begin": 11, "end": 22, "code": 220}]}
+{"raw_input": "陈岑的大学同学中在马群花园城开店的是哪个", "accounts": []}
+{"raw_input": "谁是石见的大伯并且是谭汶的同住人？", "accounts": []}
+{"raw_input": "电话号码为18020017775的大侄子并且抖音账户为125035044的同事是哪位？", "accounts": [{"value": "18020017775", "type": "PHONE_NUM", "begin": 5, "end": 16, "code": 470}, {"value": "125035044", "type": "DOUYIN_VALUE", "begin": 27, "end": 36, "code": 250}]}
+{"raw_input": "石见的阿姨的导师并且是谭汶的同住人的老公是哪位？", "accounts": []}
+{"raw_input": "去年在腾讯科技当程序员后来跳槽到百度当产品的人", "accounts": []}
+{"raw_input": "同时担任阿里巴巴董事长和新浪科技的总经理的人是谁？", "accounts": []}
+{"raw_input": "京A66666和京A88888的车是哪个人的？", "accounts": [{"value": "京A66666", "type": "VEHCARD_VALUE", "begin": 0, "end": 7, "code": 420}, {"value": "京A88888", "type": "VEHCARD_VALUE", "begin": 8, "end": 15, "code": 420}]}
+{"raw_input": "车牌是京BKH789和京Ba234f且身份证为32062319940429861X是哪位？", "accounts": [{"value": "京BKH789", "type": "VEHCARD_VALUE", "begin": 3, "end": 10, "code": 420}, {"value": "Ba234f", "type": "UNLABEL", "begin": 12, "end": 18, "code": 1}, {"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 23, "end": 41, "code": 461}]}
+{"raw_input": "车牌是京BKH789和京Ba234f且身份证为32062319940429861X的人", "accounts": [{"value": "京BKH789", "type": "VEHCARD_VALUE", "begin": 3, "end": 10, "code": 420}, {"value": "Ba234f", "type": "UNLABEL", "begin": 12, "end": 18, "code": 1}, {"value": "32062319940429861X", "type": "IDCARD_VALUE", "begin": 23, "end": 41, "code": 461}]}
+{"raw_input": "东方机的粉丝有哪些人", "accounts": []}
+{"raw_input": "dgddddghj是哪儿一位的京东账号？", "accounts": [{"value": "dgddddghj", "type": "UNLABEL", "begin": 0, "end": 9, "code": 1}]}
+{"raw_input": "爸爸叫陈绪章的陈兴成", "accounts": []}
+{"raw_input": "陈绪章是谁的爸爸", "accounts": []}
+{"raw_input": "谁是表姐叫夏君的陈垦", "accounts": []}
+{"raw_input": "大伯手机号是18626345671的何明明", "accounts": [{"value": "18626345671", "type": "MOB_NUM", "begin": 6, "end": 17, "code": 220}]}
+{"raw_input": "有一个在鼓楼医院当主任的亲戚的陈舒铭", "accounts": []}
+{"raw_input": "哪个人的祖母是罗俪？", "accounts": []}
+{"raw_input": "表姐叫李依依的人是谁？", "accounts": []}
+
+{"raw_input": "张飞和张翔的弟弟是谁？", "accounts": []}
+{"raw_input": "在广东省揭阳市惠来县定居的刘健坤的哥哥表妹", "accounts": []}
