@@ -22,7 +22,7 @@ def main():
 
     # displacy.serve(doc, options={'fine_grained': True, 'compact': True})
     html = displacy.render(doc, options={'fine_grained': True, 'compact': True})
-    with open('test.html', 'w') as fw:
+    with open('test.html', 'w', encoding='gbk') as fw:
         fw.write(html)
 
 
