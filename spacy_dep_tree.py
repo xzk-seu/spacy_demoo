@@ -1,5 +1,7 @@
-import spacy
 import json
+
+import spacy
+
 # spacy版本要小于2.1
 
 nlp = spacy.load("zh_core_web_sm")

@@ -1,5 +1,6 @@
-from spacy import displacy
 import spacy
+from spacy import displacy
+
 # spacy版本要小于2.1
 spacy.prefer_gpu()
 nlp = spacy.load("zh_core_web_sm")

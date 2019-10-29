@@ -2,7 +2,6 @@
 将json列表中的树结构转化为递归的树结构
 """
 import json
-import os
 
 
 def build_tree(token_list, root_id):

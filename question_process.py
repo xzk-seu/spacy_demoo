@@ -1,8 +1,8 @@
-import os
 import json
+import os
+
 import spacy
 from spacy import displacy
-
 
 spacy.prefer_gpu()
 nlp = spacy.load("zh_core_web_sm")

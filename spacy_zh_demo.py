@@ -6,7 +6,6 @@ nlp = spacy.load("zh_core_web_sm")
 # Process whole documents
 text = '王小明在北京的清华大学读书'
 
-
 doc = nlp(text)
 
 # Analyze syntax
