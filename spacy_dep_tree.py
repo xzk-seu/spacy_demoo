@@ -1,4 +1,3 @@
-from spacy import displacy
 import spacy
 import json
 # spacy版本要小于2.1
