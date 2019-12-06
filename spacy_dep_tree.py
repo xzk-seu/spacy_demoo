@@ -8,7 +8,7 @@ nlp = spacy.load("zh_core_web_sm")
 
 
 def main():
-    doc = nlp("1399350807的爸爸是谁")
+    doc = nlp("汪老师的爸爸是谁")
     print('text, tag_, dep_, head')
     dep_list = list()
     for token in doc:

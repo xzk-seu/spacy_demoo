@@ -9,8 +9,8 @@ text = '王小明在北京的清华大学读书'
 doc = nlp(text)
 
 # Analyze syntax
-print("Noun phrases:", [chunk.text for chunk in doc.noun_chunks])
-print("Verbs:", [token.lemma_ for token in doc if token.pos_ == "VERB"])
+print("Noun phrases:", [token.lemma_ for token in doc if token.tag_ == "NN" or token.tag_ == 'NNP'])
+print("Verbs:", [token.lemma_ for token in doc if token.tag_ == "VV"])
 
 # Find named entities, phrases and concepts
 for entity in doc.ents:

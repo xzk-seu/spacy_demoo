@@ -12,7 +12,8 @@ def main():
     # sent = '张三是谁的爸爸'
     :return:
     """
-    sent = '99554422775@126.com的同乡的手机号码'
+    # sent = '99554422775@126.com的同乡的手机号码'
+    sent = '烽火科技的工商注册号是多少'
     doc = nlp(sent)
     print('text, tag_, dep_, head')
     for token in doc:
@@ -23,7 +24,7 @@ def main():
 
     # displacy.serve(doc, options={'fine_grained': True, 'compact': True})
     html = displacy.render(doc, options={'fine_grained': True, 'compact': True})
-    with open('test.html', 'w') as fw:
+    with open('test.html', 'w', encoding='gbk') as fw:
         fw.write(html)
 
 
